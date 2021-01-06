@@ -21,11 +21,11 @@ Product manager, reporting lead, agile coach, scrum master
 
 
 #### SMC
-• Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
-• Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch assessing startup needs, industry trends, competitive landscape and client company priorities
-• Demonstrated ROI potential Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
-• Enabled client to grow share of the startup ecosystem by facilitating an initiative to integrate cross-org strategies, by delivering cross-org orchestration guidance and by developing a field execution playbook with accompanying resources
-• Assisted 20+ startups move to client platform by helping startup LTs map business needs against available engagement programs and navigate onboarding processes
+- Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
+- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch assessing startup needs, industry trends, competitive landscape and client company priorities
+- Demonstrated ROI potential Startup investment opportunity by collaborating with financial SMEs to build research-based financial model
+- Enabled client to grow share of the startup ecosystem by facilitating an initiative to integrate cross-org strategies, by delivering cross-org orchestration guidance and by developing a field execution playbook with accompanying resources
+- Assisted 20+ startups move to client platform by helping startup LTs map business needs against available engagement programs and navigate onboarding processes
 
 # Grant Thornton
 ## Management Consultant
