@@ -31,10 +31,12 @@ Segment sales stratetegy development
 # Management Consultant, Sr Associate, Feb 2017 - Feb 2018
 ## Grant Thornton
 Global modern marketing program management
-- Attributed $150M in influenced revenue to automated global marketing program by driving process improvements that optimized integrated marketing-and-sales pipeline performance
+- Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
 - Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
-- Piloted new program content and features by working cross-org to scope experiments, designing A/B tests, translating objectives into technical requirements and analyzing pre and post data
-- Managed strategic business operations for an incubating global, modern, integrated marketing program for a fortune 50 company that influenced over $150M in revenue during its first year
+- Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
+
+
+- Managed strategic business operations for an incubating global, modern digital marketing program for a fortune 50 company that influenced over $150M in revenue across 7 countries during its first year
 
 
 
