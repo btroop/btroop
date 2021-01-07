@@ -26,7 +26,7 @@ Segment sales stratetegy development
 - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
 - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
 - Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
-- Assisted 20+ startups move to client platform by helping startup LTs map business needs against available engagement programs and navigate onboarding processes
+- Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
 
 # Management Consultant, Sr Associate, Feb 2017 - Feb 2018
 ## Grant Thornton
