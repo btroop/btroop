@@ -8,7 +8,7 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 # Experience
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
-#### PMO OKR, Data and Tooling development
+##### PMO OKR, data and tooling management
 
 ### Sr Consultant, Feb 2017 - Sep 2020
 
