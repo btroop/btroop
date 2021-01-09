@@ -3,6 +3,16 @@
 I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products with a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences and interests to come up with creative, inventive solutions.
 
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 
 # Experience
