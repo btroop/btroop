@@ -1,17 +1,16 @@
-# Resume
 
-## About
+
+# About
 
 I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products with a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences and interests to come up with creative, inventive solutions.
 
 
 
 
-
+# Experience
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
-**Sustainability
-Data & reporting, 
+**PMO OKR, Data and Tooling development**
 
 ### Sr Consultant, Feb 2017 - Sep 2020
 
@@ -38,8 +37,6 @@ Data & reporting,
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
 - Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
 - Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
-
-
 - Managed strategic business operations for an incubating global, modern digital marketing program for a fortune 50 company that influenced over $150M in revenue across 7 countries during its first year
 
 
