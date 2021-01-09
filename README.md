@@ -8,14 +8,13 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 
 
 
-## Management Consultant, Sr Manager
-### Bridge Partners, 2020 - present
-
+## Management Consultant
+## Bridge Partners
+### Sr Manager, Sep 2020 - present
 #### Sustainability
 Data & reporting, 
 
-## Management Consultant, Sr Consultant
-### Bridge Partners, Feb 2017 - 2020
+## Sr Consultant, Feb 2017 - Sep 2020
 #### SC
 Product manager, reporting lead, agile coach, scrum master
 
@@ -28,8 +27,9 @@ Segment sales stratetegy development
 - Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
 - Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
 
-# Management Consultant, Sr Associate, Feb 2017 - Feb 2018
+# Management Consultant
 ## Grant Thornton
+### Sr Associate, Feb 2017 - Feb 2018
 Global modern marketing program management
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
 - Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
@@ -46,7 +46,9 @@ Global modern marketing data audit
 
 
 
-## Business consultant, Dec 2015 - Feb 2017
+## Business consultant, 
+## Freelance
+### Dec 2015 - Feb 2017
 - Designed flagship product prototype according to client’s evaluation of customer’s pain points, preferences and functional requirements
 - Increased client‘s sales leads by delivering a go-to-market strategy featuring channel-specific  communications of value proposition remapped onto targeted customer segments
 - Coached clients through contract negotiations to gain $950,000 in value
