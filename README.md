@@ -15,9 +15,15 @@ Data & reporting,
 
 ### Sr Consultant, Feb 2017 - Sep 2020
 
-**Utilization, performance and portfolio reporting product management and development**
-**Organizational **
-Product manager, reporting lead, agile coach, scrum master
+**Organizational operations product management**
+- Portfolio
+- Reduced by designing 
+- Developed prioritized backlog
+
+
+**Agile implementation and management**
+
+
 
 **Segment market and sales stratetegy development**
 - Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
