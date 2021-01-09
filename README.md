@@ -1,5 +1,3 @@
-
-
 # About
 
 I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products with a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences and interests to come up with creative, inventive solutions.
@@ -10,21 +8,21 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 # Experience
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
-**PMO OKR, Data and Tooling development**
+#### PMO OKR, Data and Tooling development
 
 ### Sr Consultant, Feb 2017 - Sep 2020
 
-**Organizational operations product management**
+####Organizational operations product management
 - Portfolio
 - Reduced by designing 
 - Developed prioritized backlog
 
 
-**Agile implementation and management**
+#### Agile implementation and management
 
 
 
-**Segment market and sales stratetegy development**
+#### Segment market and sales stratetegy development
 - Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
 - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
 - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
@@ -33,7 +31,7 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 
 ## Management Consultant, Grant Thornton
 ### Sr Associate, Feb 2017 - Feb 2018
-**Global modern marketing program management**
+#### Global modern marketing program management
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
 - Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
 - Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
@@ -41,7 +39,7 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 
 
 
-**Global modern marketing data audit**
+#### Global modern marketing data audit
 - Drove a multi-system data audit to identify and catalog disparities; provided strategic recommendations to eliminate reporting issues and build stakeholder trust in data systems
 - Developed a go-to-market strategy for a world wide marketing campaign designed to onboard existing business partners onto a new transaction platform
 
