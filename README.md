@@ -78,27 +78,40 @@ Implemented and fostered Agile frameworks within the organization
 ## Management Consultant, Grant Thornton
 ### Sr Associate, Feb 2017 - Feb 2018
 
-#### Summary
+#### Highlights from projects for Fortune 50 tech company 
 - Managed strategic business operations for an incubating global, modern digital marketing program for a fortune 50 company that influenced over $150M in revenue across 7 countries during its first year
 - Developed a go-to-market strategy for a world wide marketing campaign designed to onboard existing business partners onto a new transaction platform
-- Drove a multi-system data audit to identify and catalog disparities; provided strategic recommendations to eliminate reporting issues and build stakeholder trust in data systems
+- Drove a multi-system data audit to identify and catalog disparities; provided strategic recommendations to eliminate reporting issues and build stakeholder trust in reporting systems
 
+<details>
+  <summary><b>Global modern marketing program management</b></summary>
 
-##### Global modern marketing program management
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
 - Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
 - Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
+  
+</details>
 
-##### Global partner marketing program strategy
+<details>
+  <summary><b>Global partner marketing program strategy</b></summary>
 
 
-##### Global modern marketing data audit
+</details>
+
+
+
+<details>
+  <summary><b>Global modern marketing data audit</b></summary>
+
+
+</details>
 
 
 
 
 ## Business consultant, Freelance
 ### Dec 2015 - Feb 2017
+#### Highlights from projects across clients
 - Designed flagship product prototype according to client’s evaluation of customer’s pain points, preferences and functional requirements
 - Increased client‘s sales leads by delivering a go-to-market strategy featuring channel-specific  communications of value proposition remapped onto targeted customer segments
 - Coached clients through contract negotiations to gain $950,000 in value
