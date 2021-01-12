@@ -10,12 +10,12 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 # Experience
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
-
+### Sr Consultant, Feb 2017 - Sep 2020
 
 I've worked on a number of different projects as a management consultant with bridge. We emphasis project excellence and sales and marketing strategy and execution. 
 
 
-Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to 
+Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to manage the request intake and validation process.
 
 Designing and implementing sales strategy programs targeting growth customer segments
 
@@ -42,7 +42,7 @@ Implemented and fostered Agile frameworks within the organization
 
 </details>
 
-### Sr Consultant, Feb 2017 - Sep 2020
+
 
 
 <details>
