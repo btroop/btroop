@@ -30,7 +30,9 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 
 
 <details>
-  <summary>##### Segment market and sales stratetegy development</summary>
+  <summary>
+    ##### Segment market and sales stratetegy development
+  </summary>
   - Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
   - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
   - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
