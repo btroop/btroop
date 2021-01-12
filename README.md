@@ -10,7 +10,14 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 # Experience
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
-##### PMO OKR, data and tooling management
+##### 
+<details>
+  <summary><b>PMO OKR, data and tooling management</b></summary>
+- Led client in cross-organizational OKR development and rollout
+- Guided client 
+- Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
+- Fostered consultant growth through career coaching and development
+</details>
 
 ### Sr Consultant, Feb 2017 - Sep 2020
 
