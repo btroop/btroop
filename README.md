@@ -82,8 +82,9 @@ Implemented and fostered Agile frameworks within the organization
 - Managed strategic business operations for an incubating global, modern digital marketing program for a fortune 50 company that influenced over $150M in revenue across 7 countries during its first year
 - Developed a go-to-market strategy for a world wide marketing campaign designed to onboard existing business partners onto a new transaction platform
 - Drove a multi-system data audit to identify and catalog disparities; provided strategic recommendations to eliminate reporting issues and build stakeholder trust in reporting systems
-
 <details>
+  <summary><b>More details</b></summary>
+  <details>
   <summary><b>Global modern marketing program management</b></summary>
 
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
@@ -105,6 +106,9 @@ Implemented and fostered Agile frameworks within the organization
 
 
 </details>
+</details>
+
+
 
 
 
