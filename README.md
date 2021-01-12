@@ -30,10 +30,8 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 
 
 <details>
-  <summary>
-
-    ##### Segment market and sales stratetegy development
-
+  <summary> 
+  ##### Segment market and sales stratetegy development 
   </summary>
 
   - Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
