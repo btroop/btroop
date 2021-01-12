@@ -1,6 +1,6 @@
 # About
 
-I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products with a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences and interests to come up with creative, inventive solutions.
+I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products with a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences, interests and skills to come up with creative, inventive solutions that delight the user.
 
 
 
