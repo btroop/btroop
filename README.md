@@ -10,7 +10,18 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 # Experience
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
-##### 
+
+Emphasis on product management surrounding reporting, data and tooling needs to support business functions
+Worked on projects acoss a variety of operations, sales and marketing functions
+Implemented and fostered Agile frameworks within the organization
+- high performing, collaborative teams
+- higher quality of work
+- better work life
+
+
+
+
+
 <details>
   <summary><b>PMO OKR, data and tooling management</b></summary>
 
