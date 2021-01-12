@@ -11,7 +11,7 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
 ### Sr Consultant, Feb 2017 - Sep 2020
-
+#### Highlights from projects for Fortune 50 tech company 
 I've worked on a number of different projects as a management consultant with bridge. We emphasis project excellence and sales and marketing strategy and execution. 
 
 
@@ -28,12 +28,8 @@ Implemented and fostered Agile frameworks within the organization
 - higher quality of work
 - better work life
 
-<details>
-  <summary><b>Highlights from projects for Fortune 500 tech client</b></summary>
 
 
-
-</details>
 
 <details>
   <summary><b>More details</b></summary>
