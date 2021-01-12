@@ -3,15 +3,7 @@
 I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products with a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences and interests to come up with creative, inventive solutions.
 
 
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+
 
 
 
@@ -22,22 +14,32 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 
 ### Sr Consultant, Feb 2017 - Sep 2020
 
-##### Organizational operations product management
-- Portfolio
-- Reduced by designing 
-- Developed prioritized backlog
+
+<details>
+  <summary>##### Organizational operations product management</summary>
+  - Portfolio
+  - Reduced by designing 
+  - Developed prioritized backlog
+</details>
 
 
-##### Agile implementation and management
+
+<details>
+  <summary>##### Agile implementation and management</summary>
+</details>
+
+
+<details>
+  <summary>##### Segment market and sales stratetegy development</summary>
+  - Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
+  - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
+  - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
+  - Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
+  - Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
+</details>
 
 
 
-##### Segment market and sales stratetegy development
-- Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
-- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
-- Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
-- Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
-- Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
 
 ## Management Consultant, Grant Thornton
 ### Sr Associate, Feb 2017 - Feb 2018
