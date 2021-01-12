@@ -77,17 +77,23 @@ Implemented and fostered Agile frameworks within the organization
 
 ## Management Consultant, Grant Thornton
 ### Sr Associate, Feb 2017 - Feb 2018
+
+#### Summary
+- Managed strategic business operations for an incubating global, modern digital marketing program for a fortune 50 company that influenced over $150M in revenue across 7 countries during its first year
+- Developed a go-to-market strategy for a world wide marketing campaign designed to onboard existing business partners onto a new transaction platform
+- Drove a multi-system data audit to identify and catalog disparities; provided strategic recommendations to eliminate reporting issues and build stakeholder trust in data systems
+
+
 ##### Global modern marketing program management
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
 - Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
 - Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
-- Managed strategic business operations for an incubating global, modern digital marketing program for a fortune 50 company that influenced over $150M in revenue across 7 countries during its first year
 
+##### Global partner marketing program strategy
 
 
 ##### Global modern marketing data audit
-- Drove a multi-system data audit to identify and catalog disparities; provided strategic recommendations to eliminate reporting issues and build stakeholder trust in data systems
-- Developed a go-to-market strategy for a world wide marketing campaign designed to onboard existing business partners onto a new transaction platform
+
 
 
 
