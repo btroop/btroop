@@ -28,10 +28,15 @@ Implemented and fostered Agile frameworks within the organization
 - higher quality of work
 - better work life
 
+<details>
+  <summary><b>Highlights from projects for Fortune 500 tech client</b></summary>
 
 
 
+</details>
 
+<details>
+  <summary><b>More details</b></summary>
 <details>
   <summary><b>PMO OKR, data and tooling management</b></summary>
 
@@ -71,6 +76,11 @@ Implemented and fostered Agile frameworks within the organization
   - Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
   
 </details>
+
+
+</details>
+
+
 
 
 
