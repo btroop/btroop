@@ -122,9 +122,9 @@ Implemented and fostered Agile frameworks within the organization
 ## Business consultant, Freelance
 ### Dec 2015 - Feb 2017
 #### Highlights from projects across clients
-- Designed flagship product prototype according to client’s evaluation of customer’s pain points, preferences and functional requirements
+- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 - Increased client‘s sales leads by delivering a go-to-market strategy featuring channel-specific  communications of value proposition remapped onto targeted customer segments
-- Coached clients through contract negotiations to gain $950,000 in value
+- Coached clients through employee contract negotiations to gain $950,000 in value
 
 
 
@@ -133,12 +133,21 @@ Implemented and fostered Agile frameworks within the organization
 ## Full-stack BI engineer, VIR solutions
 ### Jan 2013 - Jul 2013
 - Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring drill-down datasets, interactive real-time data and user-friendly infographics
-- Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and parameters, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones
-- Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific KPIs 
+- Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones
+- Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs
 
 
 ## Equipment engineer & network analyst, TTMI
 ### Nov 2009 - Jan 2013
 - Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
-- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software products that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
-- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and repair procedures
+- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
+- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
+
+
+# Education
+## MBA, Foster School of Business
+### University of Washington, Class of 2015
+
+## BA, Studies in Environmental Biology & Anthropology
+### Seattle Pacific University, Class of 2009
+
