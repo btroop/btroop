@@ -1,6 +1,6 @@
 # About
 
-I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products with a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences, interests and skills—to come up with creative, inventive solutions that delight the user.
+I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products within a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences, interests and skills—to come up with creative, inventive solutions that delight the user.
 
 
 
@@ -11,7 +11,7 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
 ### Sr Consultant, Feb 2017 - Sep 2020
-#### Highlights from projects for Fortune 50 tech company 
+#### Highlights from projects for Fortune 500 tech company 
 I've worked on a number of different projects as a management consultant with bridge. We emphasis project excellence and sales and marketing strategy and execution. 
 
 
@@ -36,7 +36,7 @@ Implemented and fostered Agile frameworks within the organization
 <details>
   <summary><b>PMO OKR, data and tooling management</b></summary>
 
-- Led client in cross-organizational OKR development and rollout
+- Led client in developing and rolling out organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames, 
 - Guided client 
 - Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
 - Fostered consultant growth through career coaching and development
@@ -49,7 +49,8 @@ Implemented and fostered Agile frameworks within the organization
 <details>
   <summary><b>Organizational operations product management</b></summary>
 
-  - Portfolio
+  - Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
+  - Delivered Enterprise- 
   - Reduced by designing 
   - Developed prioritized backlog
   
