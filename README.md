@@ -86,10 +86,10 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 
 ### Management Consultant, Grant Thornton
-### Sr Associate, Feb 2017 - Feb 2018
-
-#### Highlights from projects for Fortune 50 tech company 
-- Managed strategic business operations for an incubating global, modern digital marketing program for a fortune 50 company that influenced over $150M in revenue across 7 countries during its first year
+**Sr Associate, Feb 2017 - Feb 2018**  
+  
+**Highlights from projects for Fortune 50 tech company**  
+- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
 - Developed a go-to-market strategy for a world wide marketing campaign designed to onboard existing business partners onto a new transaction platform
 - Drove a multi-system data audit to identify and catalog disparities; provided strategic recommendations to eliminate reporting issues and build stakeholder trust in reporting systems
 <details>
