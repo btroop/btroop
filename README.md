@@ -8,7 +8,7 @@ I'm looking to solve real problems for real people by working with a high-perfor
 
 
 # Experience
-## Management Consultant, Bridge Partners
+### Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
 ### Sr Consultant, Feb 2018 - Sep 2020
 #### Highlights from Fortune 50 tech company projects
@@ -81,10 +81,10 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 
 
+---
 
 
-
-## Management Consultant, Grant Thornton
+### Management Consultant, Grant Thornton
 ### Sr Associate, Feb 2017 - Feb 2018
 
 #### Highlights from projects for Fortune 50 tech company 
@@ -120,9 +120,9 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 
 
+---
 
-
-## Business consultant, Freelance
+### Business consultant, Freelance
 ### Dec 2015 - Feb 2017
 #### Highlights from projects across clients
 - Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
@@ -131,9 +131,9 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 
 
+---
 
-
-## Full-stack BI engineer, VIR solutions
+### Full-stack BI engineer, VIR solutions
 ### Jan 2013 - Jul 2013
 - Enabled C-suite visibility into operational alignment with QMS standards by scoping, building and delivering a full-stack BI solution
 <details>
@@ -143,19 +143,20 @@ Worked on projects acoss a variety of operations, sales and marketing functions
   - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs
 </details>
 
+---
 
-
-## Equipment engineer & network analyst, TTMI
+### Equipment engineer & network analyst, TTMI
 ### Nov 2009 - Jan 2013
 - Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 - Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 - Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
 
+---
 
 # Education
-## MBA, Foster School of Business
+### MBA, Foster School of Business
 ### University of Washington, Class of 2015
 
-## BA, Studies in Environmental Biology & Anthropology
+### BA, Studies in Environmental Biology & Anthropology
 ### Seattle Pacific University, Class of 2009
 
