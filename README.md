@@ -66,8 +66,7 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 
 <details>
-  <summary><b>Marketing and sales strategy programs development
-</b></summary>  
+  <summary><b>Marketing and sales strategy programs development</b></summary>  
 
   - Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
   - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
@@ -124,8 +123,8 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 ---
 
 ### Business consultant, Freelance
-### Dec 2015 - Feb 2017
-#### Highlights from projects across clients
+**Dec 2015 - Feb 2017**  
+**Highlights from projects across clients**  
 - Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 - Increased client‘s sales leads by delivering a go-to-market strategy featuring channel-specific  communications of value proposition remapped onto targeted customer segments
 - Coached clients through employee contract negotiations to gain $950,000 in value
@@ -135,19 +134,19 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 ---
 
 ### Full-stack BI engineer, VIR solutions
-### Jan 2013 - Jul 2013
+**Jan 2013 - Jul 2013**
 - Enabled C-suite visibility into operational alignment with QMS standards by scoping, building and delivering a full-stack BI solution
 <details>
   <summary><b>More Details</b></summary>
-  - Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly drill-down capable visualizations
-  - Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones
-  - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs
+- Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly drill-down capable visualizations  
+- Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
+- Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs
 </details>
 
 ---
 
 ### Equipment engineer & network analyst, TTMI
-### Nov 2009 - Jan 2013
+**Nov 2009 - Jan 2013**  
 - Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 - Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 - Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
@@ -156,8 +155,9 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 # Education
 ### MBA, Foster School of Business
-### University of Washington, Class of 2015
+**University of Washington, Class 2015**
+---
 
 ### BA, Studies in Environmental Biology & Anthropology
-### Seattle Pacific University, Class of 2009
+**Seattle Pacific University, 2009**
 
