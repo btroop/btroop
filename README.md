@@ -1,6 +1,6 @@
 # About
 
-I'm looking to solve real problems for real people by turning innovative ideas into awesome, beautifully-designed products within a high-performing team. I'm most energized when operating as a polymath—drawing upon my collection of multi-functional, broadly technical experiences, interests and skills—to come up with creative, inventive solutions that delight the user.
+I'm looking to solve real problems for real people by working with a high-performing team to turn innovative ideas into awesome, beautifully-designed products. I'm most energized when operating as a polymath—drawing upon my collection of broadly technical, multi-functional experiences, interests and skills—to come up with creative, inventive solutions that delight users.
 
 
 
@@ -10,23 +10,19 @@ I'm looking to solve real problems for real people by turning innovative ideas i
 # Experience
 ## Management Consultant, Bridge Partners
 ### Sr Manager, Sep 2020 - present
-### Sr Consultant, Feb 2017 - Sep 2020
-#### Highlights from projects for Fortune 500 tech company 
-I've worked on a number of different projects as a management consultant with bridge. We emphasis project excellence and sales and marketing strategy and execution. 
+### Sr Consultant, Feb 2018 - Sep 2020
+#### Highlights from Fortune 50 tech company projects
+I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution. 
 
 
 Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to manage the request intake and validation process.
 
-Designing and implementing sales strategy programs targeting growth customer segments
 
 
 Worked on projects acoss a variety of operations, sales and marketing functions
 
 
-Implemented and fostered Agile frameworks within the organization
-- high performing, collaborative teams
-- higher quality of work
-- better work life
+
 
 
 
@@ -34,11 +30,12 @@ Implemented and fostered Agile frameworks within the organization
 <details>
   <summary><b>More details</b></summary>
 <details>
-  <summary><b>PMO OKR, data and tooling management</b></summary>
+  <summary><b>OKR, data, reporting and tooling management for cross-org PMO</b></summary>
 
-- Led client in developing and rolling out organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames, 
+- Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
+- drive alignment across company's 14 major business groups
 - Guided client 
-- Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
+- Improved PMO efficiency by designing and building a business-focused process for collecting and managing Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
 - Fostered consultant growth through career coaching and development
 
 </details>
@@ -60,13 +57,18 @@ Implemented and fostered Agile frameworks within the organization
 
 <details>
   <summary><b>Agile implementation and management</b></summary>
+- Implemented and fostered Agile frameworks within the organization
+- high performing, collaborative teams
+- higher quality of work
+- better work life
 </details>
 
 
 <details>
-  <summary><b>Segment market and sales stratetegy development</b></summary>  
+  <summary><b>Marketing and sales strategy programs development
+</b></summary>  
 
-  - Led v-team within a Fortune 50 company to research market trends and develop new sales strategies targeting growing customer segments and industries
+  - Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
   - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
   - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
   - Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
