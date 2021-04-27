@@ -11,6 +11,7 @@ I'm looking to solve real problems for real people by working with a high-perfor
 ### Management Consultant, Bridge Partners
 **Sr Manager, Sep 2020 - present**  
 **Sr Consultant, Feb 2018 - Sep 2020**  
+  
 **Highlights from Fortune 50 tech company projects**  
 I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution. 
 
