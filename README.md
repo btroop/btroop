@@ -154,10 +154,14 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 ---
 
 # Education
+## Degrees
 ### MBA, Foster School of Business
-**University of Washington, Class 2015**
+**University of Washington, 2015**
+
 ---
 
 ### BA, Studies in Environmental Biology & Anthropology
 **Seattle Pacific University, 2009**
+
+## Certificates
 
