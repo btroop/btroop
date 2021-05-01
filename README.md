@@ -2,7 +2,6 @@
 
 I'm looking to solve real problems for real people by working with a high-performing team to turn innovative ideas into awesome, beautifully-designed products. I'm most energized when operating as a polymath—drawing upon my collection of broadly technical, multi-functional experiences, interests and skills—to come up with creative, inventive solutions that delight users.
 
-<h1>Test</h1>
 
 
 
@@ -21,7 +20,11 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 
 
 Worked on projects acoss a variety of operations, sales and marketing functions
-
+- 
+- 
+- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
+- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
+- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
 
 
 
@@ -89,8 +92,8 @@ Worked on projects acoss a variety of operations, sales and marketing functions
   
 **Highlights from projects for Fortune 50 tech company**  
 - Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
-- Developed a go-to-market strategy for a world-wide marketing campaign designed to onboard existing business partners onto a new transaction platform
-- Drove a multi-system data audit to identify and catalog reporting disparities—provided strategic recommendations to eliminate reporting issues and build stakeholder trust
+- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
+- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
 <details>
   <summary><b>More details</b></summary>
   <details>
@@ -126,7 +129,7 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 **Dec 2015 - Feb 2017**  
 **Highlights from projects across clients**  
 - Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
-- Increased client‘s sales leads by delivering a go-to-market strategy featuring channel-specific  communications of value proposition remapped onto targeted customer segments
+- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
 - Coached clients through employee contract negotiations to gain $950,000 in value
 
 
@@ -135,12 +138,12 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 ### Full-stack BI engineer, VIR solutions
 **Jan 2013 - Jul 2013**
-- Enabled C-suite visibility into operational alignment with QMS standards by scoping, building and delivering a full-stack BI solution
+- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
 <details>
   <summary><b>More Details</b></summary>
-- Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly drill-down capable visualizations  
-- Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
 - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs
+- Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly, drill-down-capable visualizations  
+- Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
 </details>
 
 ---
@@ -164,4 +167,8 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 **Seattle Pacific University, 2009**
 
 ## Certificates
+### Digital Product Management, Darden School of Business
+**University of Virginia, 2018**
 
+### Certified Scrum Master
+**The Scrum Alliance, 2018 (still current)
