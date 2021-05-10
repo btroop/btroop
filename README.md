@@ -97,7 +97,7 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 <details>
   <summary><b>More details</b></summary>
   <br/>
-<b>Global modern marketing program management</b>
+<b>Global modern marketing program management</b>  
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
 - Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
 - Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
