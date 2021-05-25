@@ -19,9 +19,6 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 
 
 
-Worked on projects acoss a variety of operations, sales and marketing functions
-- 
-- 
 - Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
 - Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
 - Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
@@ -33,6 +30,7 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 <details>
   <summary><b>More details</b></summary>
+  <br/>
   <b>OKR, data, reporting and tooling management for cross-org PMO</b>
 
   - Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
