@@ -1,4 +1,5 @@
 # Experience
+---
 ### Management Consultant, Bridge Partners
 **Sr Manager, Sep 2020 - present**  
 **Sr Consultant, Feb 2018 - Sep 2020**    
