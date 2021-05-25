@@ -1,26 +1,21 @@
 # Experience
 ### Management Consultant, Bridge Partners
-**Sr Manager, Sep 2020 - present**  
-**Sr Consultant, Feb 2018 - Sep 2020**  
-  
-**Highlights from Fortune 50 tech company projects**  
-I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution. 
-
-
-Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to manage the request intake and validation process.
-
-
-
-- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
-- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
-- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
-
-
-
-
-
-
-<details>
+>**Sr Manager, Sep 2020 - present**  
+>**Sr Consultant, Feb 2018 - Sep 2020**  
+>  
+>**Highlights from Fortune 50 tech company projects**  
+>
+>
+>- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
+>- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
+>- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
+>
+>
+>
+>
+>
+>
+><details>
   <summary><b>Project details</b></summary>
   <br/>
   <b>OKR, data, reporting and tooling management for cross-org PMO</b>
@@ -36,37 +31,42 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 
 
 
-<b>Organizational operations product management</b>
-- Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
-- Delivered Enterprise- 
-- Reduced by designing 
-- Developed prioritized backlog
+  <b>Organizational operations product management</b>
+  - Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
+  - Delivered Enterprise- 
+  - Reduced by designing 
+  - Developed prioritized backlog
   
 
 
 
 
 
-<b>Agile implementation and management</b>
-- Implemented and fostered Agile frameworks within the organization
-- high performing, collaborative teams
-- higher quality of work
-- better work life
+  <b>Agile implementation and management</b>
+  - Implemented and fostered Agile frameworks within the organization
+  - high performing, collaborative teams
+  - higher quality of work
+  - better work life
 
 
 
 
-<b>Marketing and sales strategy programs development</b>
-- Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
-- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
-- Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
-- Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
-- Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
+  <b>Marketing and sales strategy programs development</b>
+  - Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
+  - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
+  - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
+  - Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
+  - Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
   
 
 
 
-</details>
+></details>
+>
+>I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution. 
+
+
+Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to manage the request intake and validation process.
 
 
 
