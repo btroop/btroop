@@ -1,6 +1,8 @@
 # Experience
 ---
 ### Management Consultant, Bridge Partners
+**Sr Manager, Sep 2020 - present**
+**Sr Consultant, Feb 2018 - Sep 2020**
 >**Highlights from Fortune 50 tech company projects**  
 >
 >
@@ -11,7 +13,7 @@
 
 
 <details>
-  <summary><b>Sr Manager, Sep 2020 - present</b></summary>
+  <summary><b>Project details</b></summary>
 
   
   ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
@@ -22,10 +24,7 @@
   >- Fostered consultant growth through career coaching and development
 
 
-</details>
 
-<details>
-  <summary><b>Sr Consultant, Feb 2018 - Sep 2020</b></summary>
 
   ><b>Organizational operations product management</b>
   >- Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
@@ -68,14 +67,14 @@
 
 
 ### Management Consultant, Grant Thornton
-   
+**Sr Associate, Feb 2017 - Feb 2018**
 >**Highlights from projects for Fortune 50 tech company**  
 >- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
 
 <details>
-  <summary><b>Sr Associate, Feb 2017 - Feb 2018</b></summary>
+  <summary><b>Project details</b></summary>
   <br/>
 <b>Global modern marketing program management</b>  
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
@@ -106,10 +105,22 @@
 
 ### Business consultant, Freelance
 **Dec 2015 - Feb 2017**  
-**Highlights from projects across clients**  
-- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
-- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
-- Coached clients through employee contract negotiations to gain $950,000 in value
+>**Highlights from projects across clients**  
+>- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
+>- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
+>- Coached clients through employee contract negotiations to gain $950,000 in value
+
+
+
+---
+
+
+### Business consultant, Foster School of Business
+**Jan 2014 - Apr 2014**
+**Jan 2015 - Apr 2015**  
+>**Highlights from projects across clients**  
+>- Market research
+>- Strategic analysis
 
 
 
@@ -117,10 +128,11 @@
 
 ### Full-stack BI engineer, VIR solutions
 **Jan 2013 - Jul 2013**
-- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
+>Project Highlights
+>- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
 
 <details>
-  <summary><b>More Details</b></summary>
+  <summary><b>Project Details</b></summary>
   - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs  
   - Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly, drill-down-capable visualizations  
   - Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
@@ -130,6 +142,6 @@
 
 ### Equipment engineer & network analyst, TTMI
 **Nov 2009 - Jan 2013**  
-- Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
-- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
-- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
+>- Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
+>- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
+>- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
