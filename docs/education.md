@@ -1,5 +1,5 @@
-
 # Education
+---
 ## Degrees
 >### MBA, Foster School of Business
 >**University of Washington, 2015**
