@@ -146,3 +146,25 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 - Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 - Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 - Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
+
+
+
+
+# Education
+##### Degrees
+### MBA, Foster School of Business
+**University of Washington, 2015**
+
+
+### BA, Studies in Environmental Biology & Anthropology
+**Seattle Pacific University, 2009**
+
+---
+
+##### Certificates
+### Digital Product Management, Darden School of Business
+**University of Virginia, 2018**
+
+### Certified Scrum Master
+**The Scrum Alliance, 2018 (still current)
+
