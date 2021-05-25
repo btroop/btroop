@@ -33,16 +33,16 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 
 <details>
   <summary><b>More details</b></summary>
-<details>
-  <summary><b>OKR, data, reporting and tooling management for cross-org PMO</b></summary>
+  <details>
+    <summary><b>OKR, data, reporting and tooling management for cross-org PMO</b></summary>
 
-- Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
-- drive alignment across company's 14 major business groups
-- Guided client 
-- Improved PMO efficiency by designing and building a business-focused process for collecting and managing Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
-- Fostered consultant growth through career coaching and development
+  - Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
+  - drive alignment across company's 14 major business groups
+  - Guided client 
+  - Improved PMO efficiency by designing and building a business-focused process for collecting and managing Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
+  - Fostered consultant growth through career coaching and development
 
-</details>
+  </details>
 
 
 
