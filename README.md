@@ -50,10 +50,10 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 <details>
   <summary><b>Organizational operations product management</b></summary>
 
-  - Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
-  - Delivered Enterprise- 
-  - Reduced by designing 
-  - Developed prioritized backlog
+- Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
+- Delivered Enterprise- 
+- Reduced by designing 
+- Developed prioritized backlog
   
 </details>
 
@@ -71,11 +71,11 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 <details>
   <summary><b>Marketing and sales strategy programs development</b></summary>  
 
-  - Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
-  - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
-  - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
-  - Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
-  - Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
+- Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
+- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
+- Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
+- Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
+- Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
   
 </details>
 
@@ -94,6 +94,7 @@ Worked on projects acoss a variety of operations, sales and marketing functions
 - Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
 - Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 - Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
+
 <details>
   <summary><b>More details</b></summary>
   <br/>
