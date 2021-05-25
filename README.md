@@ -29,7 +29,7 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 
 
 <details>
-  <summary><b>More details</b></summary>
+  <summary><b>Project details</b></summary>
   <br/>
   <b>OKR, data, reporting and tooling management for cross-org PMO</b>
 
@@ -45,7 +45,6 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 
 
 <b>Organizational operations product management</b>
-
 - Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
 - Delivered Enterprise- 
 - Reduced by designing 
@@ -56,7 +55,7 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 
 
 
-  <b>Agile implementation and management</b>
+<b>Agile implementation and management</b>
 - Implemented and fostered Agile frameworks within the organization
 - high performing, collaborative teams
 - higher quality of work
@@ -66,7 +65,6 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 
 
 <b>Marketing and sales strategy programs development</b>
-
 - Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
 - Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
 - Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
