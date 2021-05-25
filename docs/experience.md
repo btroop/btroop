@@ -56,12 +56,12 @@
 
 
 </details>
-
+{::comment}
 I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution. 
 
 
 Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to manage the request intake and validation process.
-
+{:/comment}
 
 
 ---
