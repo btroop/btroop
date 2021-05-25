@@ -15,4 +15,4 @@
 >**University of Virginia, 2018**
 
 >### Certified Scrum Master
->**The Scrum Alliance, 2018 (still current)
+>**The Scrum Alliance, 2018 (currently certified)**
