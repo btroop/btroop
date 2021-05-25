@@ -1,4 +1,4 @@
-# Resume
+# Ben Troop
 
 # About
 
