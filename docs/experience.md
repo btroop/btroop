@@ -10,7 +10,7 @@
 >- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
 
 <details>
-  <summary><b>Project details</b></summary>
+  <summary><h2>Project details</h2></summary>
   
   ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
   >- Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
