@@ -1,6 +1,6 @@
 # Education
 ---
-### Degrees
+#### Degrees
 >### MBA, Foster School of Business
 >**University of Washington, 2015**
 
@@ -10,7 +10,7 @@
 
 ---
 
-### Certificates
+#### Certificates
 >### Digital Product Management, Darden School of Business
 >**University of Virginia, 2018**
 
