@@ -1,21 +1,15 @@
 # Experience
 ### Management Consultant, Bridge Partners
->**Sr Manager, Sep 2020 - present**  
->**Sr Consultant, Feb 2018 - Sep 2020**  
->  
+**Sr Manager, Sep 2020 - present**  
+**Sr Consultant, Feb 2018 - Sep 2020**    
 >**Highlights from Fortune 50 tech company projects**  
 >
 >
 >- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
 >- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
 >- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
->
->
->
->
->
->
-><details>
+
+<details>
   <summary><b>Project details</b></summary>
   <br/>
   <b>OKR, data, reporting and tooling management for cross-org PMO</b>
@@ -61,9 +55,9 @@
 
 
 
-></details>
->
->I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution. 
+</details>
+
+I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution. 
 
 
 Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to manage the request intake and validation process.
@@ -76,13 +70,13 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 ### Management Consultant, Grant Thornton
 **Sr Associate, Feb 2017 - Feb 2018**  
   
-**Highlights from projects for Fortune 50 tech company**  
-- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
-- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
-- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
+>**Highlights from projects for Fortune 50 tech company**  
+>- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
+>- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
+>- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
 
 <details>
-  <summary><b>More details</b></summary>
+  <summary><b>Project details</b></summary>
   <br/>
 <b>Global modern marketing program management</b>  
 - Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
