@@ -7,7 +7,6 @@
 
 
 # Experience
-# Experience
 ---
 >### Management Consultant, Bridge Partners
 >**Sr Manager, Sep 2020 - present**
