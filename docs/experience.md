@@ -1,8 +1,8 @@
 # Experience
 ---
-### Management Consultant, Bridge Partners
-**Sr Manager, Sep 2020 - present**
-**Sr Consultant, Feb 2018 - Sep 2020**
+>### Management Consultant, Bridge Partners
+>**Sr Manager, Sep 2020 - present**
+>**Sr Consultant, Feb 2018 - Sep 2020**
 >**Highlights from Fortune 50 tech company projects**  
 >
 >
@@ -66,8 +66,8 @@
 ---
 
 
-### Management Consultant, Grant Thornton
-**Sr Associate, Feb 2017 - Feb 2018**
+>### Management Consultant, Grant Thornton
+>**Sr Associate, Feb 2017 - Feb 2018**
 >**Highlights from projects for Fortune 50 tech company**  
 >- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
@@ -103,8 +103,8 @@
 
 ---
 
-### Business consultant, Freelance
-**Dec 2015 - Feb 2017**  
+>### Business consultant, Freelance
+>**Dec 2015 - Feb 2017**  
 >**Highlights from projects across clients**  
 >- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
@@ -115,9 +115,9 @@
 ---
 
 
-### Business consultant, Foster School of Business
-**Jan 2014 - Apr 2014**
-**Jan 2015 - Apr 2015**  
+>### Business consultant, Foster School of Business
+>**Jan 2014 - Apr 2014**
+>**Jan 2015 - Apr 2015**  
 >**Highlights from projects across clients**  
 >- Market research
 >- Strategic analysis
@@ -126,8 +126,8 @@
 
 ---
 
-### Full-stack BI engineer, VIR solutions
-**Jan 2013 - Jul 2013**
+>### Full-stack BI engineer, VIR solutions
+>**Jan 2013 - Jul 2013**
 >Project Highlights
 >- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
 
@@ -140,8 +140,8 @@
 
 ---
 
-### Equipment engineer & network analyst, TTMI
-**Nov 2009 - Jan 2013**  
+>### Equipment engineer & network analyst, TTMI
+>**Nov 2009 - Jan 2013**  
 >- Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 >- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
