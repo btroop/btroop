@@ -151,7 +151,7 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 ---
 
 # Education
-## Degrees
+##### Degrees
 ### MBA, Foster School of Business
 **University of Washington, 2015**
 
@@ -160,7 +160,7 @@ Emphasis on product management surrounding reporting, data and tooling needs to 
 ### BA, Studies in Environmental Biology & Anthropology
 **Seattle Pacific University, 2009**
 
-## Certificates
+##### Certificates
 ### Digital Product Management, Darden School of Business
 **University of Virginia, 2018**
 
