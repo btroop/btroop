@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [Resume](/)
 * [About](about.md)
 * [Experience](experience.md)
 * [Education](education.md)
