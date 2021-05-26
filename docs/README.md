@@ -1,5 +1,4 @@
 
-
 # Ben Troop
 
 # About
@@ -150,8 +149,7 @@
 
 
 
-<details>
-<summary># Education</summary>
+# Education</summary
 
 #### Degrees
 >### MBA, Foster School of Business
@@ -169,5 +167,5 @@
 
 >### Certified Scrum Master
 >**The Scrum Alliance, 2018 (currently certified)**
-</details>
+
 
