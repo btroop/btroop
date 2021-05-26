@@ -13,7 +13,7 @@
 >
 >---
 >
->**Highlights from Fortune 50 tech company projects**   
+>**Project highlights for Fortune 50 tech company**   
 >
 >- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
 >- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
@@ -68,7 +68,7 @@
 >**Sr Associate, Feb 2017 - Feb 2018**
 >
 >--- 
->**Highlights from projects for Fortune 50 tech company**  
+>**Project highlights for Fortune 50 tech company**  
 >- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
@@ -97,8 +97,10 @@
 
 
 >### Business consultant, Freelance
->**Dec 2015 - Feb 2017**  
->**Highlights from projects across clients**  
+>**Dec 2015 - Feb 2017**
+>
+>---  
+>**Project highlights, various clients**  
 >- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
 >- Coached clients through employee contract negotiations to gain $950,000 in value
@@ -111,7 +113,7 @@
 >### Business consultant, Foster School of Business
 >**Jan 2014 - Apr 2014**
 >**Jan 2015 - Apr 2015**  
->**Highlights from projects across clients**  
+>**Project highlights, various clients**  
 >- Market research
 >- Strategic analysis
 
@@ -121,6 +123,8 @@
 
 >### Full-stack BI engineer, VIR solutions
 >**Jan 2013 - Jul 2013**
+>
+>---
 >Project Highlights
 >- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
 >
@@ -134,7 +138,9 @@
 
 
 >### Equipment engineer & network analyst, TTMI
->**Nov 2009 - Jan 2013**  
+>**Nov 2009 - Jan 2013**
+>
+>---  
 >- Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 >- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
