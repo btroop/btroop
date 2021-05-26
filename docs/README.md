@@ -149,7 +149,7 @@
 
 
 <details>
-<summary># Education</summary>
+<h2><summary># Education</summary></h2>
 
 #### Degrees
 >### MBA, Foster School of Business
