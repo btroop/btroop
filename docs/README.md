@@ -1,4 +1,3 @@
-
 # Ben Troop
 
 # About
@@ -149,7 +148,7 @@
 
 
 
-# Education</summary
+# Education
 
 #### Degrees
 >### MBA, Foster School of Business
