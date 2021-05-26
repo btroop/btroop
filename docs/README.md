@@ -164,8 +164,10 @@
 ---
 
 #### Certificates
->### Digital Product Management, Darden School of Business
->**University of Virginia, 2018**
+>>>
+### Digital Product Management, Darden School of Business
+**University of Virginia, 2018**
+>>>
 
 >### Certified Scrum Master
 >**The Scrum Alliance, 2018 (currently certified)**
