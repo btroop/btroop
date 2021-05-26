@@ -148,8 +148,8 @@
 
 
 
-
-# Education
+<details>
+<summary># Education</summary>
 #### Degrees
 >### MBA, Foster School of Business
 >**University of Washington, 2015**
@@ -166,5 +166,5 @@
 
 >### Certified Scrum Master
 >**The Scrum Alliance, 2018 (currently certified)**
-
+</details>
 
