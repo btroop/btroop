@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # Ben Troop
 
 # About
@@ -149,7 +151,7 @@
 
 
 <details>
-<summary><h1>Education</h1></summary>
+<summary># Education</summary>
 
 #### Degrees
 >### MBA, Foster School of Business
