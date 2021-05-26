@@ -13,7 +13,7 @@
 >
 >---
 >
->**Project highlights for Fortune 50 tech company**   
+>**Fortune 50 tech company project highlights**   
 >
 >- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
 >- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
@@ -68,7 +68,7 @@
 >**Sr Associate, Feb 2017 - Feb 2018**
 >
 >--- 
->**Project highlights for Fortune 50 tech company**  
+>**Fortune 50 tech company project highlights**  
 >- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
@@ -100,7 +100,7 @@
 >**Dec 2015 - Feb 2017**
 >
 >---  
->**Project highlights, various clients**  
+>**Client project highlights**  
 >- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
 >- Coached clients through employee contract negotiations to gain $950,000 in value
@@ -113,7 +113,7 @@
 >### Business consultant, Foster School of Business
 >**Jan 2014 - Apr 2014**
 >**Jan 2015 - Apr 2015**  
->**Project highlights, various clients**  
+>**Client project highlights**  
 >- Market research
 >- Strategic analysis
 
@@ -125,7 +125,7 @@
 >**Jan 2013 - Jul 2013**
 >
 >---
->Project Highlights
+>**Client project highlights**
 >- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
 >
 ><details>
