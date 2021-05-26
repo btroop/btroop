@@ -7,7 +7,6 @@
 
 
 # Experience
----
 >### Management Consultant, Bridge Partners
 >**Sr Manager, Sep 2020 - present**  
 >**Sr Consultant, Feb 2018 - Sep 2020**  
@@ -61,7 +60,6 @@
 
 [//]: # (Emphasis on product management surrounding reporting, data and tooling needs to support business functions. This includes understanding business problems, developing and prioritizing development backlogs, and working closely with development teams to ensure that the products and features match the business need. Often organization required that a process be put into place to manage the request intake and validation process.)
 
----
 
 
 >### Management Consultant, Grant Thornton
@@ -104,7 +102,7 @@
 
 
 
----
+
 
 
 >### Business consultant, Foster School of Business
@@ -116,21 +114,21 @@
 
 
 
----
+
 
 >### Full-stack BI engineer, VIR solutions
 >**Jan 2013 - Jul 2013**
 >Project Highlights
 >- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
+>
+><details>
+>  <summary><b>Project Details</b></summary>
+>  - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs  
+>  - Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly, drill-down-capable visualizations  
+>  - Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
+></details>
 
-<details>
-  <summary><b>Project Details</b></summary>
-  - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs  
-  - Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly, drill-down-capable visualizations  
-  - Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
-</details>
 
----
 
 >### Equipment engineer & network analyst, TTMI
 >**Nov 2009 - Jan 2013**  
