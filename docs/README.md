@@ -10,7 +10,9 @@
 >### Management Consultant, Bridge Partners
 >**Sr Manager, Sep 2020 - present**  
 >**Sr Consultant, Feb 2018 - Sep 2020**  
+>
 >---
+>
 >**Highlights from Fortune 50 tech company projects**   
 >
 >- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
@@ -63,7 +65,8 @@
 
 
 >### Management Consultant, Grant Thornton
->**Sr Associate, Feb 2017 - Feb 2018** 
+>**Sr Associate, Feb 2017 - Feb 2018**
+>
 >--- 
 >**Highlights from projects for Fortune 50 tech company**  
 >- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
