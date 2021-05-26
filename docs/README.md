@@ -17,17 +17,8 @@
 >- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
 >- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
 >- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
-> 
+> ---
 >
-><div class="panel panel-info">
->**Note**
->{: .panel-heading}
-><div class="panel-body">
->
->NOTE DESCRIPTION
->
-></div>
-></div>
 >
 ><details>
 >  <summary><b>Project details</b></summary>
@@ -75,41 +66,32 @@
 
 >### Management Consultant, Grant Thornton
 >**Sr Associate, Feb 2017 - Feb 2018** 
-><br/> 
+>--- 
 >**Highlights from projects for Fortune 50 tech company**  
 >- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
-
-<details>
-  <summary><b>Project details</b></summary>
-  <br/>
-<b>Global modern marketing program management</b>  
-- Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
-- Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
-- Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
-  
-
-
-<details>
-  <summary><b>Global partner marketing program strategy</b></summary>
-
-
-</details>
-
-
-
-<details>
-  <summary><b>Global modern marketing data audit</b></summary>
-
-
-</details>
-</details>
+>---
+><details>
+  ><summary><b>Project details</b></summary>
+  >
+  ><b>Global modern marketing program management</b>  
+  >- Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
+  >- Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
+  >- Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
+>
+>---
+><b>Global partner marketing program strategy</b>
+>---
+>
+><b>Global modern marketing data audit</b>
+>
+></details>
 
 
 
 
----
+
 
 >### Business consultant, Freelance
 >**Dec 2015 - Feb 2017**  
