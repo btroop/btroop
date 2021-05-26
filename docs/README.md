@@ -29,30 +29,22 @@
   >>- Guided client 
   >>- Improved PMO efficiency by designing and building a business-focused process for collecting and managing Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
   >>- Fostered consultant growth through career coaching and development
-
-
-
-
+>
+>
   >><b>Organizational operations product management</b>
   >>- Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
   >>- Delivered Enterprise- 
   >>- Reduced by designing 
   >>- Developed prioritized backlog
-  
-
-
-
-
-
+>  
+>
   >><b>Agile implementation and management</b>
   >>- Implemented and fostered Agile frameworks within the organization
   >>- high performing, collaborative teams
   >>- higher quality of work
   >>- better work life
-
-
-
-
+>
+>
   >><b>Marketing and sales strategy programs development</b>
   >>- Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
   >>- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
@@ -60,10 +52,8 @@
   >>- Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
   >>- Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
   
-
-
-
-</details>
+>
+></details>
 
 [//]: # (I've worked on a number of different projects as a management consultant with bridge. Bridge Partners'  is project excellence and sales & marketing strategy and execution.)
 
