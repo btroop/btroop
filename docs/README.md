@@ -15,7 +15,8 @@
 >
 >**Fortune 50 tech company project highlights**   
 >
->- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on Microsoft's Power Platform
+>- build program for managing corporate sustainability strategy goals and progress; incorporated data gathering, transformation and 
+>- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on modern BI platform
 >- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
 >- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
 > ---
@@ -33,8 +34,8 @@
   >- Fostered consultant growth through career coaching and development
 >
 >---
-  ><b>Organizational operations product management</b>
-  >- Successfully delivered data management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
+  ><b>Product management for org operations</b>
+  >- Successfully delivered resource management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
   >- Delivered Enterprise- 
   >- Reduced by designing 
   >- Developed prioritized backlog
