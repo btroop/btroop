@@ -15,10 +15,10 @@
 >
 >**Fortune 50 tech company project highlights**   
 >
->- build program for managing corporate sustainability strategy goals and progress; incorporated data gathering, transformation and 
->- Enabled organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on modern BI platform
->- Advanced org's Agile performance by coaching Scrum teams, building Agile curriculum and leading training initiatives
->- Improved client company's reach into customer growth segments by working across the organization to develop an aligned and orchestrated sales strategy
+>- Supported corporation-wide action for tracking and achieving sustainability strategy goals by helping client design and implement a data, reporting and OKR management program; incorporated data gathering, transformation and 
+>- Enabled 50-person organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on modern BI platform
+>- Advanced product management team's Agile capabilities by implementing Agile and Scrum principles and practices, coaching Scrum teams, building Agile curriculum and leading training initiatives
+>- Improved client company's reach into customer growth segments by coordinating teams from across 8 business grops to develop an aligned and orchestrated sales and engagement strategy
 > ---
 >
 >
@@ -49,7 +49,7 @@
 >
 >---
   ><b>Marketing and sales strategy programs development</b>
-  >- Led v-team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
+  >- Led cross-org team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
   >- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
   >- Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
   >- Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
@@ -97,7 +97,7 @@
 
 
 
->### Business consultant, Freelance
+>### Business Consultant, Freelance
 >**Dec 2015 - Feb 2017**
 >
 >---  
@@ -111,7 +111,7 @@
 
 
 
->### Business consultant, Foster School of Business
+>### Business Consultant, Foster School of Business
 >**Jan 2014 - Apr 2014**
 >**Jan 2015 - Apr 2015**  
 >**Client project highlights**  
@@ -122,7 +122,7 @@
 
 
 
->### Full-stack BI engineer, VIR solutions
+>### Full-stack BI Engineer/Consultant, VIR solutions
 >**Jan 2013 - Jul 2013**
 >
 >---
@@ -138,7 +138,7 @@
 
 
 
->### Equipment engineer & network analyst, TTMI
+>### Equipment Engineer & Network Analyst, TTMI
 >**Nov 2009 - Jan 2013**
 >
 >---  
