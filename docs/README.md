@@ -104,7 +104,7 @@
 >**Highlights from client projects**  
 >- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
->- Coached clients through employee contract negotiations to gain $950,000 in value
+>- Coached client reps through employee contract negotiations to gain $950,000 in value
 
 
 
@@ -144,6 +144,7 @@
 >**Nov 2009 - Jan 2013**
 >
 >---  
+>**Highlights from role**  
 >- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 >- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
