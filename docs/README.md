@@ -17,7 +17,7 @@
 >
 >- Supported corporation-wide action for tracking and achieving sustainability strategy goals by helping client design and implement a data, reporting and OKR management program; incorporated data gathering, transformation and 
 >- Enabled 50-person organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on modern BI platform
->- Advanced product management team's Agile capabilities by implementing Agile and Scrum principles and practices, coaching Scrum teams, building Agile curriculum and leading training initiatives
+>- Advanced product management team's Agile capabilities by implementing Agile and Scrum principles and practices, coaching Scrum teams, creating Agile education curriculums and leading training initiatives
 >- Improved client company's reach into customer growth segments by coordinating teams from across 8 business grops to develop an aligned and orchestrated sales and engagement strategy
 > ---
 >
