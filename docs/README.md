@@ -13,12 +13,12 @@
 >
 >---
 >
->**Fortune 50 tech company project highlights**   
+>**Highlights from Fortune 50 tech company projects**   
 >
->- Supported corporation-wide action for tracking and achieving sustainability strategy goals by helping client design and implement a data, reporting and OKR management program; incorporated data gathering, transformation and 
+>- Supported company actions for achieving sustainability strategy goals by helping client design and implement a corporate-wide data, reporting and OKR management program to track and monitor progress
 >- Enabled 50-person organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on modern BI platform
->- Advanced product management team's Agile capabilities by implementing Agile and Scrum principles and practices, coaching Scrum teams, creating Agile education curriculums and leading training initiatives
->- Improved client company's reach into customer growth segments by coordinating teams from across 8 business grops to develop an aligned and orchestrated sales and engagement strategy
+>- Developed and matured product management team's Agile capabilities by implementing Agile and Scrum principles and practices, coaching Scrum teams, creating Agile educational content and leading training initiatives
+>- Improved client company's reach into customer growth segments by coordinating teams from across 8 business grops to develop an aligned and orchestrated sales and engagement strategy for targeted customer types
 > ---
 >
 >
@@ -28,7 +28,7 @@
 >  
   ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
   >- Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
-  >- drive alignment across company's 14 major business groups
+  >- Implemented program processes to incrase 
   >- Guided client 
   >- Improved PMO efficiency by designing and building a business-focused process for collecting and managing Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
   >- Fostered consultant growth through career coaching and development
@@ -69,8 +69,8 @@
 >**Sr Associate, Feb 2017 - Feb 2018**
 >
 >--- 
->**Fortune 50 tech company project highlights**  
->- Managed strategic business operations for a global, modern-digital-marketing program that influenced over $150M in revenue across 7 countries while in its first year of incubation
+>**Highlights from Fortune 50 tech company projects**   
+>- Influenced over $150M in revenue in its first year of incubation by managing strategic business operations for a global, modern-digital-marketing program and scaling across 7 countries 
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
 >---
@@ -78,9 +78,9 @@
   ><summary><b>Project details</b></summary>
   >
   ><b>Global modern marketing program management</b>  
-  >- Attributed $150M in influenced revenue to an automate global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
+  >- Attributed $150M in influenced revenue to an automated global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
   >- Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
-  >- Piloted new program content and features by managing end-to-end A/B testing process, including working cross-org to scope experiments, designing tests, translating objectives into technical requirements and analyzing pre and post data
+  >- Piloted new program content and features by managing end-to-end A/B testing process, including scoping experiments through cross-org collaboration, designing tests, translating objectives into technical requirements and analyzing pre and post data
   >
   >---
   >
@@ -101,7 +101,7 @@
 >**Dec 2015 - Feb 2017**
 >
 >---  
->**Client project highlights**  
+>**Highlights from client projects**  
 >- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
 >- Coached clients through employee contract negotiations to gain $950,000 in value
@@ -114,7 +114,7 @@
 >### Business Consultant, Foster School of Business
 >**Jan 2014 - Apr 2014**
 >**Jan 2015 - Apr 2015**  
->**Client project highlights**  
+>**Highlights from client projects**  
 >- Market research
 >- Strategic analysis
 
@@ -126,12 +126,12 @@
 >**Jan 2013 - Jul 2013**
 >
 >---
->**Client project highlights**
+>**Highlights from client project**  
 >- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
 >
 ><details>
 >  <summary><b>Project Details</b></summary>
->  - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove KPIs  
+>  - Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove scorecard KPIs  
 >  - Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly, drill-down-capable visualizations  
 >  - Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
 ></details>
@@ -142,7 +142,7 @@
 >**Nov 2009 - Jan 2013**
 >
 >---  
->- Enabled executive leadership to make strategic expansion decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
+>- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 >- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
 
