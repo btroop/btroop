@@ -23,6 +23,7 @@ benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
 >
 >
 ><details>
+>
 >---
 >  <summary><b>Project details</b></summary>
 >
@@ -75,6 +76,7 @@ benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
 ><details>
+>
 >---
   ><summary><b>Project details</b></summary>
   >
