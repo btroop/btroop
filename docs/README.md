@@ -76,10 +76,11 @@ benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
 ><details>
-  >
-  >---
-  ><summary><b>Project details</b></summary>
-  >
+>
+>---
+>  <summary><b>Project details</b></summary>
+>
+> 
   ><b>Global modern marketing program management</b>  
   >- Attributed $150M in influenced revenue to an automated global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
   >- Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
