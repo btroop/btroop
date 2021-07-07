@@ -137,10 +137,11 @@ benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
 ><details>
   >
   >---
-  >  <summary><b>Project Details</b></summary>
+  ><summary><b>Project details</b></summary>
+  >
   >- Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove scorecard KPIs
   >- Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly, drill-down-capable visualizations
-  >- Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones  
+  >- Delivered product at forecasted deadline by partnering with stakeholders to scope project objectives and requirements, by utilizing Agile methodologies to rapidly iterate through features and by leveraging team’s collective expertise to solve bugs and complete milestones
   >
   >
 ></details>
