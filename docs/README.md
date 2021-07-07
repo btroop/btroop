@@ -20,10 +20,10 @@ benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
 >- Enabled 50-person organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on modern BI platform
 >- Developed and matured product management team's Agile capabilities by implementing Agile and Scrum principles and practices, coaching Scrum teams, creating Agile educational content and leading training initiatives
 >- Improved client company's reach into customer growth segments by coordinating teams from across 8 business grops to develop an aligned and orchestrated sales and engagement strategy for targeted customer types
-> ---
 >
 >
 ><details>
+> ---
 >  <summary><b>Project details</b></summary>
 >
 >  
@@ -74,8 +74,8 @@ benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
 >- Influenced over $150M in revenue in its first year of incubation by managing strategic business operations for a global, modern-digital-marketing program and scaling across 7 countries 
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
->---
 ><details>
+  >---
   ><summary><b>Project details</b></summary>
   >
   ><b>Global modern marketing program management</b>  
@@ -133,6 +133,7 @@ benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
 >- Enabled C-suite visibility into operational compliance with QMS standards by scoping, building and delivering a full-stack BI solution
 >
 ><details>
+  >---
   >  <summary><b>Project Details</b></summary>
   >- Provided client leadership insights into quality management performance by translating 10 industry-standard measures into firm-specific formulas that drove scorecard KPIs  
   >- Designed and built an automated ETL process to populate a back-end data warehousing service of RDBs and OLAP cubes that powered a client-facing BI dashboard featuring interactive real-time data and user-friendly, drill-down-capable visualizations  
