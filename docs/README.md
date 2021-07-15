@@ -1,5 +1,5 @@
 # Ben Troop
-benjamintroop@gmail.com / 206.552.0204 / linkedin.com/bentroop
+benjamintroop@gmail.com / 206.552.0204 / [LinkedIn](linkedin.com/bentroop)
 
 # About
 
