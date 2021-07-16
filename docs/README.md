@@ -77,6 +77,7 @@ benjamintroop@gmail.com / 206.552.0204 / [LinkedIn](https://www.linkedin.com/in/
 >- Influenced over $150M in revenue in its first year of incubation by managing strategic business operations for a global, modern-digital-marketing program and scaling across 7 countries 
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
+>
 ><details>
 >
 >---
