@@ -18,10 +18,10 @@
 >
 >**Highlights from Fortune 50 tech company projects**   
 >
->- Supported company actions for achieving sustainability strategy goals by helping client design and implement a corporate-wide data, reporting and OKR management program to track and monitor progress
->- Enabled 50-person organization to measure Agile performance and better manage project portfolio by designing, developing and delivering an enterprise-grade reporting suite built on modern BI platform
->- Developed and matured product management team's Agile capabilities by implementing Agile and Scrum principles and practices, coaching Scrum teams, creating Agile educational content and leading training initiatives
->- Improved client company's reach into customer growth segments by coordinating teams from across 8 business grops to develop an aligned and orchestrated sales and engagement strategy for targeted customer types
+>- Supported company ability to achieve sustainability strategy goals by leading client in the design and implementation of a corporate-wide data, reporting and OKR management program to monitor and track progress
+>- Enabled 50-person organization to measure Agile performance and better manage project portfolio by leveraging product-management principles to design, develop and deliver an enterprise-grade reporting suite built on a modern BI platform
+>- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading training initiatives and implementing Agile and Scrum principles and practices
+>- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy 
 >
 >
 ><details>
@@ -31,7 +31,7 @@
 >
 >  
   ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
-  >- Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
+  >- Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different sustainability programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
   >- Implemented program processes to incrase 
   >- Guided client 
   >- Improved PMO efficiency by designing and building a business-focused process for collecting and managing Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
