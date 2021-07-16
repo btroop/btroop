@@ -2,7 +2,7 @@
 
 - **Ben Troop**
 - benjamintroop@gmail.com
-- :phone: 206.552.0204
+- :phone: <span class="material-icons">phone</span>206.552.0204
 - [LinkedIn](https://www.linkedin.com/in/bentroop)
 ---
 - **Resume**
