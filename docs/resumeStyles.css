@@ -1,0 +1,51 @@
+:root {
+      /*--content-max-width: 60em;*/
+      --docsify-example-panels-left-panel-width : 50%;
+      --docsify-example-panels-right-panel-width : 50%;
+      
+      
+    }
+    
+    strong {
+      font-weight: 700;
+    }
+    
+
+
+    li, p {
+      line-height: 1.5em;
+      margin: 0 0 1em 0;
+    }
+
+    hr {
+      margin: 0;
+    }
+
+
+    ::marker {
+      color: var(--blockquote-border-color)
+    }
+
+    blockquote {
+        margin: 0 0 1em 0;
+    }
+
+    @media print {
+      :root {
+        /*--content-max-width: 95em;*/
+        --sidebar-width: 0;
+      }
+      details {
+        visibility: hidden;
+        display: none;
+      }
+      blockquote {
+        padding: 0 .5em;
+      }
+
+      .sidebar, .sidebar-toggle-button {
+        visibility: hidden;
+        display: none;
+      }
+
+    }
