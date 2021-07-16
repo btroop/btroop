@@ -180,3 +180,32 @@
 >**The Scrum Alliance, 2018 (currently certified)**
 
 
+
+
+<!-- panels:start -->
+<!-- div:title-panel -->
+
+  # Education
+  
+<!-- div:left-panel -->
+
+  #### Degrees
+  >### MBA, Foster School of Business
+  >**University of Washington, 2015**
+
+
+  >### BA, Studies in Environmental Biology & Anthropology
+  >**Seattle Pacific University, 2009**
+
+<!-- div:right-panel -->
+
+
+  #### Certificates
+  >### Digital Product Management, Darden School of Business
+  >**University of Virginia, 2018**
+
+  >### Certified Scrum Master
+  >**The Scrum Alliance, 2018 (currently certified)**
+
+<!-- panels:end -->
+
