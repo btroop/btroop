@@ -1,9 +1,7 @@
 # Ben Troop
-> **Contact**
->
 >benjamintroop@gmail.com / 206.552.0204 / [LinkedIn](https://www.linkedin.com/in/bentroop)
->  
-> **About**
+>
+>---
 >
 > I'm looking to solve real problems for real people by working with a high-performing team to turn innovative ideas into awesome, beautifully-designed and intelligently-built products. 
 >  
