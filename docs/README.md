@@ -6,6 +6,11 @@
 
 
 # Experience
+
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+  
 >### Management Consultant, Bridge Partners
 >**Sr Manager, Sep 2020 - present**  
 >**Sr Consultant, Feb 2018 - Sep 2020**  
@@ -65,6 +70,12 @@
 
 
 
+
+<!-- div:right-panel -->
+
+
+
+
 >### Management Consultant, Grant Thornton
 >**Sr Associate, Feb 2017 - Feb 2018**
 >
@@ -96,9 +107,11 @@
 ></details>
 
 
+<!-- panels:end -->
 
 
-
+<!-- panels:start -->
+<!-- div:left-panel -->
 
 >### Business Consultant, Freelance
 >**Dec 2015 - Feb 2017**
@@ -111,7 +124,7 @@
 
 
 
-
+<!-- div:right-panel -->
 
 
 >### Business Consultant, Foster School of Business
@@ -124,9 +137,10 @@
 >- Strategic analysis
 
 
+<!-- panels:end -->
 
-
-
+<!-- panels:start -->
+<!-- div:left-panel -->
 >### Full-stack BI Engineer/Consultant, VIR solutions
 >**Jan 2013 - Jul 2013**
 >
@@ -146,7 +160,7 @@
   >
 ></details>
 
-
+<!-- div:right-panel -->
 
 >### Equipment Engineer & Network Analyst, TTMI
 >**Nov 2009 - Jan 2013**
@@ -157,7 +171,7 @@
 >- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
 
-
+<!-- panels:end -->
 
 
 <!-- panels:start -->
