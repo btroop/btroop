@@ -87,15 +87,15 @@ benjamintroop@gmail.com / 206.552.0204 / [LinkedIn](https://www.linkedin.com/in/
   >- Attributed $150M in influenced revenue to an automated global, digital marketing program by driving process improvements to optimize integrated marketing-and-sales pipeline performance
   >- Rolled out program refresh to 4 existing and 3 new global markets by managing launch activities across content, social, web, marketing operations, sales, reporting and field teams
   >- Piloted new program content and features by managing end-to-end A/B testing process, including scoping experiments through cross-org collaboration, designing tests, translating objectives into technical requirements and analyzing pre and post data
-  >
-  >---
-  >
+>
+>---
+>
   ><b>Global partner marketing program strategy</b>
-  >
-  >---
-  >
+>
+>---
+>
   ><b>Global modern marketing data audit</b>
-  >
+>
 ></details>
 
 
