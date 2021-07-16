@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - **Ben Troop**
-- :mi-two-tone check_circle green:benjamintroop@gmail.com
+- :mi-two-tone check_circle green: benjamintroop@gmail.com
 - 206.552.0204
 - [LinkedIn](https://www.linkedin.com/in/bentroop)
 ---
