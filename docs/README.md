@@ -12,8 +12,8 @@
 
   
 >### Management Consultant, Bridge Partners
->**Sr Manager, Sep 2020 - present**  
->**Sr Consultant, Feb 2018 - Sep 2020**  
+>Sr Manager, Sep 2020 - present  
+>Sr Consultant, Feb 2018 - Sep 2020  
 >
 >---
 >
@@ -77,7 +77,7 @@
 
 
 >### Management Consultant, Grant Thornton
->**Sr Associate, Feb 2017 - Feb 2018**
+>Sr Associate, Feb 2017 - Feb 2018
 >
 >--- 
 >**Highlights from Fortune 50 tech company projects**   
@@ -117,7 +117,7 @@
 >**Dec 2015 - Feb 2017**
 >
 >---  
->**Highlights from client projects**  
+>Highlights from client projects  
 >- Designed flagship product prototype by working with client to evaluate customers' pain points, preferences and functional requirements
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
 >- Coached client reps through employee contract negotiations to gain $950,000 in value
@@ -128,8 +128,8 @@
 
 
 >### Business Consultant, Foster School of Business
->**Jan 2014 - Apr 2014**  
->**Jan 2015 - Apr 2015**  
+>Jan 2014 - Apr 2014  
+>Jan 2015 - Apr 2015  
 >
 >--- 
 >**Highlights from client projects**  
@@ -142,7 +142,7 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 >### Full-stack BI Engineer/Consultant, VIR solutions
->**Jan 2013 - Jul 2013**
+>Jan 2013 - Jul 2013
 >
 >---
 >**Highlights from client project**  
@@ -163,7 +163,7 @@
 <!-- div:right-panel -->
 
 >### Equipment Engineer & Network Analyst, TTMI
->**Nov 2009 - Jan 2013**
+>Nov 2009 - Jan 2013
 >
 >---  
 >**Highlights from role**  
@@ -183,19 +183,19 @@
 
   #### Degrees
   >### MBA, Foster School of Business
-  >**University of Washington, 2015**
+  >University of Washington, 2015
 
   >### BA, Studies in Environmental Biology & Anthropology
-  >**Seattle Pacific University, 2009**
+  >Seattle Pacific University, 2009
 
 <!-- div:right-panel -->
 
   #### Certificates
   >### Digital Product Management, Darden School of Business
-  >**University of Virginia, 2018**
+  >University of Virginia, 2018
 
   >### Certified Scrum Master
-  >**The Scrum Alliance, 2018 (currently certified)**
+  >The Scrum Alliance, 2018 (currently certified)
 
 <!-- panels:end -->
 
