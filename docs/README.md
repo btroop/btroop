@@ -108,10 +108,10 @@
 >
 >---  
 >Highlights from client projects  
->-Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements
->-Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics
->-Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments
->-Coached small business owners in management best-practices across marketing, sales, negotiation, finance and operations functions
+>-Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements  
+>-Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
+>-Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments  
+>-Coached small business owners in management best-practices across marketing, sales, negotiation, finance and operations functions  
 
 
 
