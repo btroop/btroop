@@ -19,7 +19,7 @@
 >**Highlights from Fortune 50 tech company projects**   
 >
 >- Improved company's ability to achieve sustainability strategy goals by leading client in the design and implementation of a corporate-wide data, reporting and OKR management program to monitor and track progress
->- Enabled 50-person organization to measure Agile performance and better manage project portfolio by leveraging product-management principles to design, develop and deliver an enterprise-grade reporting suite built on a modern BI platform
+>- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by leveraging product-management principles to design, develop and deliver an enterprise-grade reporting suite built on a modern BI platform
 >- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading training initiatives and implementing Agile and Scrum principles and practices
 >- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy 
 >
