@@ -1,0 +1,7 @@
+Juniper Networks project:
+
+• Enabled client CEO/board to monitor partner relationship health and assess executive compensation by developing an automated full-stack business intelligence solution for tracking industry-standard quality management KPIs
+
+• Crafted seamless, intuitive reporting experience by incorporating BI and UX best practices in interactive dashboard and scorecard
+
+• Delivered product at forecasted deadline by partnering with business stakeholders to define and prioritize requirements, by rapidly developing features via Agile methodologies and by collaborating closely with 8-person team to complete milestones
