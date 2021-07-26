@@ -1,1 +1,5 @@
+• Enabled SLT to make strategic growth decisions by designing and building analysis models that forecasted projects’ BOMs, CapEx and operating budgets
 
+• Reduced costs, planning oversights and data discrepancies by developing and implementing automated software products that streamlined 10 major engineering workflows and improved data management and operational efficiency across the company
+
+• Minimized financial impact of service delivery outages and improved network reliability by revising interdepartmental project management policies and by standardizing troubleshooting and repair processes
