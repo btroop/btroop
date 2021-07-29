@@ -19,7 +19,7 @@
 >**Highlights from Fortune 50 tech company projects**   
 >
 >- Improved company's ability to achieve sustainability strategy goals by leading client in the design and implementation of a corporate-wide data, reporting and OKR management program to monitor and track progress
->- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by leveraging product-management principles to design, develop and deliver an enterprise-grade reporting suite built on a modern BI platform
+>- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by utilizing product-management practices to design, develop and deliver two enterprise-grade, cloud-based software and reporting capabilities
 >- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading training initiatives and implementing Agile and Scrum principles and practices
 >- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy 
 >
@@ -31,15 +31,15 @@
 >
 >  
   ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
-  >- Influenced corporate strategy by facilitating the development of organization-wide OKRs for 10 different sustainability programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
-  >- Implemented program processes to incrase 
-  >- Guided client 
-  >- Improved PMO efficiency by designing and building a business-focused process for collecting and managing Organized business-side intake and management process around tooling requests so that ideas were vetted and mature when handing to technical product and development teams for building
+  >- Influenced corporate sustainability strategy by facilitating the development of organization-wide OKRs for 10 different sustainability programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
+  >- Enabled efficient scaling and automation of in-scope program management functions by guiding client through program architecture design 
+  >- Assisted client in creation and implementation of a cross-company data platform by leading business-side stakeholders through requirements development process and facilitating collaboration with development teams
+  >- Improved PMO efficiency by designing and building a process for systematically collecting, tracking, vetting, defining and maturing business-centric tooling requests in preparation of handoff to technical product and development teams for development
   >- Fostered consultant growth through career coaching and development
 >
 >---
-  ><b>Product management for org operations</b>
-  >- Successfully delivered resource management tool to client by observing stakeholder activities, aggregating stakeholder feedback, developing and prioritizing backlog and collaborating with development team to ensure build met business needs
+  ><b>Product management for organizational operations</b>
+  >- Successfully delivered resource management software tool to client by collecting requirements and feedback from stakeholders, developing and prioritizing feature backlog and collaborating with development team to ensure build satisfied business needs
   >- Delivered Enterprise- 
   >- Reduced by designing 
   >- Developed prioritized backlog
@@ -184,5 +184,16 @@
 
 
 
+# Skills
+>### Data
+>Neo4J, GraphQl, SQL, PowerQuery(M), MongoDb 
 
+>### Finance
+>Modeling
+
+>### Design
+>Illustrator, InDesign, Photoshop, PowerPoint
+
+>### Development
+>React.js, HTML, CSS, Apollo
 
