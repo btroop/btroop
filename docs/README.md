@@ -119,7 +119,8 @@
 
 
 >### Business Consultant, Foster School of Business
->Jan 2014 - Mar 2014; Oct 2014 - Mar 2015  
+>Jan 2014 - Mar 2014
+>Oct 2014 - Mar 2015  
 >
 >--- 
 >**Highlights from client projects**  
