@@ -190,16 +190,16 @@
 <!-- div:left-panel -->
 >### Data
 >Neo4J, GraphQl, SQL, PowerQuery(M), MongoDb 
-<!-- div:right-panel -->
+
 >### Finance
 >Modeling
-<!-- panels:end -->
 
-<!-- panels:start --> 
-<!-- div:left-panel -->
+<!-- div:right-panel -->
+
 >### Design
 >Illustrator, InDesign, Photoshop, PowerPoint
-<!-- div:right-panel -->
+
+
 >### Development
 >React.js, HTML, CSS, Apollo
 <!-- panels:end -->
