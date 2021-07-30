@@ -162,10 +162,12 @@
 
 
   # Education
+
 <!-- panels:start --> 
 <!-- div:left-panel -->
 
   #### Degrees
+
   >### MBA, Foster School of Business
   >University of Washington, 2015
 
@@ -175,6 +177,7 @@
 <!-- div:right-panel -->
 
   #### Certificates
+  
   >### Digital Product Management, Darden School of Business
   >University of Virginia, 2018
 
@@ -186,6 +189,7 @@
 
 
 # Skills
+
 <!-- panels:start --> 
 <!-- div:left-panel -->
 >### Data
