@@ -1,6 +1,6 @@
 # Intro
 > I'm looking to solve real problems for real people by working with a high-performing team to turn innovative ideas into awesome, beautifully-designed and intelligently-built products. 
->  
+> <br/>
 >I'm most energized when operating as a polymath—drawing upon my collection of broadly technical, multi-functional experiences, interests and skills—to come up with creative, inventive solutions that delight users.
 
 
@@ -107,7 +107,7 @@
 >Dec 2015 - Feb 2017
 >
 >---  
->Highlights from client projects  
+>**Highlights from client projects**  
 >- Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements  
 >- Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments  
