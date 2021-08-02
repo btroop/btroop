@@ -167,8 +167,7 @@
 
   # Education
 
-<!-- panels:start --> 
-<!-- div:left-panel -->
+
 
   #### Degrees
 
@@ -178,7 +177,7 @@
   >### BA, Studies in Environmental Biology & Anthropology
   >Seattle Pacific University, 2009
 
-<!-- div:right-panel -->
+
 
   #### Certificates
   
@@ -188,21 +187,19 @@
   >### Certified Scrum Master
   >The Scrum Alliance, 2018 (currently certified)
 
-<!-- panels:end -->
+
 
 
 
 # Skills
 
-<!-- panels:start --> 
-<!-- div:left-panel -->
+
 >### Data
 >Neo4J, GraphQl, SQL, PowerQuery(M), MongoDb 
 
 >### Finance
 >Modeling
 
-<!-- div:right-panel -->
 
 >### Design
 >Illustrator, InDesign, Photoshop, PowerPoint
@@ -210,4 +207,4 @@
 
 >### Development
 >React.js, HTML, CSS, Apollo
-<!-- panels:end -->
+
