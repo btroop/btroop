@@ -15,9 +15,7 @@
 >Sr Consultant, Feb 2018 - Sep 2020  
 >
 >---
-><span class="hiddenHighlight>
->**Highlights from Fortune 50 tech company projects**   
-></span>
+><span class="hiddenHighlight>**Highlights from Fortune 50 tech company projects**   </span>
 >
 >- Improved company's ability to achieve sustainability strategy goals by leading client in the design and implementation of a corporate-wide data, reporting and OKR management program to monitor and track progress
 >- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by utilizing product-management practices to design, develop and deliver two enterprise-grade, cloud-based software and reporting capabilities
@@ -75,9 +73,7 @@
 >Sr Associate, Feb 2017 - Feb 2018
 >
 >--- 
-><span class="hiddenHighlight>
->**Highlights from Fortune 50 tech company projects** 
-></span>  
+><span class="hiddenHighlight>**Highlights from Fortune 50 tech company projects** </span>  
 >- Influenced over $150M in revenue in its first year of incubation by managing strategic business operations for a global, modern-digital-marketing program and scaling across 7 countries 
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
 >- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
@@ -110,9 +106,7 @@
 >Dec 2015 - Feb 2017
 >
 >---  
->><span class="hiddenHighlight>
->**Highlights from client projects**  
-></span>
+><span class="hiddenHighlight>**Highlights from client projects**  </span>
 >- Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements  
 >- Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments  
@@ -128,9 +122,7 @@
 >Oct 2014 - Mar 2015  
 >
 >--- 
-><span class="hiddenHighlight>
->**Highlights from client projects**  
-></span>
+><span class="hiddenHighlight>**Highlights from client projects**  </span>
 >- Developed change recommendations for aligning marketing strategy and messaging with customer needs by designing and executing a comprehensive market research study, analyzing research data, extracting key insights and developing a reporting/publishing framework
 >- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence of industry-adapted use-case scenarios’ impacts on client’s value differentiation, competitive advantage and financial performance
 
@@ -140,7 +132,7 @@
 >Jan 2013 - Jul 2013
 >
 >---
->**Highlights from client project**  
+><span class="hiddenHighlight>**Highlights from client project**  <span>
 >- Enabled C-suite/board to assess executive compensation on partner relationship health and operational compliance with QMS standards and KPIs by scoping, building and delivering a full-stack BI solution 
 >
 ><details>
@@ -161,9 +153,7 @@
 >Nov 2009 - Jan 2013
 >
 >--- 
-><span class="hiddenHighlight>
->**Highlights from role** 
-></span> 
+><span class="hiddenHighlight>**Highlights from role** </span> 
 >- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 >- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
