@@ -15,7 +15,7 @@
 >Sr Consultant, Feb 2018 - Sep 2020  
 >
 >---
->
+>{:.hiddenHighlight}
 >**Highlights from Fortune 50 tech company projects**   
 >
 >- Improved company's ability to achieve sustainability strategy goals by leading client in the design and implementation of a corporate-wide data, reporting and OKR management program to monitor and track progress
@@ -74,6 +74,7 @@
 >Sr Associate, Feb 2017 - Feb 2018
 >
 >--- 
+>{:.hiddenHighlight}
 >**Highlights from Fortune 50 tech company projects**   
 >- Influenced over $150M in revenue in its first year of incubation by managing strategic business operations for a global, modern-digital-marketing program and scaling across 7 countries 
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
@@ -107,6 +108,7 @@
 >Dec 2015 - Feb 2017
 >
 >---  
+>{:.hiddenHighlight}
 >**Highlights from client projects**  
 >- Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements  
 >- Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
@@ -123,6 +125,7 @@
 >Oct 2014 - Mar 2015  
 >
 >--- 
+>{:.hiddenHighlight}
 >**Highlights from client projects**  
 >- Developed change recommendations for aligning marketing strategy and messaging with customer needs by designing and executing a comprehensive market research study, analyzing research data, extracting key insights and developing a reporting/publishing framework
 >- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence of industry-adapted use-case scenarios’ impacts on client’s value differentiation, competitive advantage and financial performance
@@ -153,7 +156,8 @@
 >### Equipment Engineer & Network Analyst, TTMI
 >Nov 2009 - Jan 2013
 >
->---  
+>--- 
+>{:.hiddenHighlight} 
 >**Highlights from role**  
 >- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
 >- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
