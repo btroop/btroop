@@ -41,10 +41,11 @@
         display: none;
       }
       blockquote {
-        padding: 0 !important;
+        padding: 0 .5em !important;
       }
       p {
-        margin: 0 !important;
+        margin: 0  .5em !important;
+        line-height: 1em; !important
       }
 
       .sidebar, .sidebar-toggle-button {
