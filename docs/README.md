@@ -132,7 +132,7 @@
 >Jan 2013 - Jul 2013
 >
 >---
-><div class="hiddenHighlight>**Highlights from client project**  <div>
+><div class="hiddenHighlight>**Highlights from client project**  </div>
 >- Enabled C-suite/board to assess executive compensation on partner relationship health and operational compliance with QMS standards and KPIs by scoping, building and delivering a full-stack BI solution 
 >
 ><details>
