@@ -48,9 +48,11 @@
         line-height: 1em !important;
       }
 
-      .sidebar, .sidebar-toggle-button {
+      .sidebar, .sidebar-toggle-button, .hiddenHighlight {
         visibility: hidden;
         display: none;
       }
+      
+
 
     }
