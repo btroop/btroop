@@ -102,7 +102,7 @@
 
 
 
->### Business Consultant, Freelance
+>### Strategy & Business Consultant, Freelance
 >Dec 2015 - Feb 2017
 >
 >---  
@@ -117,7 +117,7 @@
 
 
 
->### Business Consultant, Foster School of Business
+>### Strategy & Business Consultant, via Foster School of Business
 >Jan 2014 - Mar 2014  
 >Oct 2014 - Mar 2015  
 >
