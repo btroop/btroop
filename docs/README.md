@@ -19,7 +19,7 @@
 >
 >- Improved client company’s ability to achieve sustainability strategy goals by leading  the design and implementation of a corporate-wide data, reporting and OKR management program for monitoring and tracking progress
 >- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by utilizing product-management practices to design, develop and deliver two enterprise-grade, cloud-based software and reporting capabilities
->- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading training initiatives and implementing Agile and Scrum principles and practices
+>- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading trainings and implementing Agile and Scrum principles and practices
 >- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy 
 >
 >
