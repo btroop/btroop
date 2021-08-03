@@ -1,7 +1,7 @@
 # Intro
 > I'm looking to solve real problems for real people by working with a high-performing team to turn innovative ideas into awesome, beautifully-designed and intelligently-built products. 
 > <br/><br/>
->I'm most energized when operating as a polymath—drawing upon my collection of broadly technical, multi-functional experiences, interests and skills—to come up with creative, inventive solutions that delight users.
+>I'm most energized when operating as a polymath—drawing upon my collection of broadly technical, multi-functional experiences, interests and skills—to deliver creative, inventive solutions that delight users.
 
 
 
