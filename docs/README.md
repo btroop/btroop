@@ -123,8 +123,8 @@
 >
 >--- 
 >**Highlights from client projects**
->- Developed change recommendations for aligning marketing strategy and messaging with customer needs by designing and executing a comprehensive market research study, analyzing research data, extracting key insights and developing a reporting/publishing framework
->- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence of industry-adapted use-case scenarios’ impacts on client’s value differentiation, competitive advantage and financial performance
+>- Developed change recommendations for aligning client’s marketing strategy and messaging with customer needs by designing, executing and analyzing a comprehensive research study across targeted customer segments
+>- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence and analysis of industry-adapted scenario impacts on client’s value differentiation, competitive advantage and financial goals
 
 
 
