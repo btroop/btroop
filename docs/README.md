@@ -133,7 +133,7 @@
 >
 >---
 >**Highlights from client project**
->- Enabled C-suite/board to assess executive compensation on partner relationship health and operational compliance with QMS standards and KPIs by scoping, building and delivering a full-stack BI solution 
+>- Enabled C-suite/board to evaluate executive compensation, partner relationship health and operational compliance with QMS standards and KPIs by scoping, building and delivering a full-stack BI solution
 >
 ><details>
   >
