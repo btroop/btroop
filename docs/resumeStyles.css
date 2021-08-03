@@ -31,6 +31,10 @@
         margin: 0 0 1em 0;
     }
 
+    .hiddenHighlight{
+      font-weight: 700;
+    }
+
     @media print {
       :root {
         --content-max-width: 95em;
@@ -41,7 +45,7 @@
         display: none;
       }
       blockquote {
-        padding: 0 .5em !important;
+        padding: 0 1em !important;
       }
       p, li {
         margin: 0  0 .5em 0 !important;
