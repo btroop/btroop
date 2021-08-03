@@ -15,7 +15,7 @@
 >Sr Consultant, Feb 2018 - Sep 2020  
 >
 >---
-><div class="hiddenHighlight">**Highlights from Fortune 50 tech company projects**   </div>
+><span class="hiddenHighlight">Highlights from Fortune 50 tech company projects   </span>
 >
 >- Improved company's ability to achieve sustainability strategy goals by leading client in the design and implementation of a corporate-wide data, reporting and OKR management program to monitor and track progress
 >- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by utilizing product-management practices to design, develop and deliver two enterprise-grade, cloud-based software and reporting capabilities
