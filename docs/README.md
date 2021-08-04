@@ -190,16 +190,19 @@
 
 
 >### Data
->Neo4J, GraphQl, SQL, PowerQuery(M), MongoDb 
+>Neo4J, GraphQl, SQL, PowerQuery(M), MongoDb, Data modeling, analysis and visualization; MSFT Excel and VBA; BI dashboards; SQL, NoSQL, Graph DB; Statistical analysis 
+
+
+>### Design/Development
+>Adobe Ps/Ai/Id; MSFT PPT deck design, executive pitches; Agile; Full-stack .js; HTML/CSS; NoSQL/Graph DB; Product design/UI/UX; • Node.js, React, GraphQL
+
 
 >### Finance
->Modeling
+>Financial modeling; Firm and project valuation; DCF analysis; Portfolio allocation; Venture funding; Capital budgeting; P&L analysis
 
+>### Marketing
+>Data-driven modern, integrated marketing strategy and operations; Market analysis; • Competitive analysis; VOC research; Go-to-market strategy
 
->### Design
->Illustrator, InDesign, Photoshop, PowerPoint
-
-
->### Development
->React.js, HTML, CSS, Apollo
+>##Operations
+>Cross-functional collaboration; Project management; Process improvement; Logistics planning; Quantitative modeling
 
