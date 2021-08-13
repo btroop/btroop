@@ -199,12 +199,6 @@
 >- BI dashboards
 >- Statistical analysis 
 
-
->### Design/Development
->- Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown
->- Adobe Ps/Ai/Id; Product management & design/UI/UX
->- MSFT PPT, deck design, executive pitches
-
 >### Operations
 >- Agile & Scrum
 >- Program & project management
@@ -215,6 +209,11 @@
 >- Quantitative modeling
 
 <!-- div:right-panel -->
+>### Design/Development
+>- Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown
+>- Adobe Ps/Ai/Id; Product management & design/UI/UX
+>- MSFT PPT, deck design, executive pitches
+
 >### Marketing
 >- Data-driven modern, integrated marketing strategy and operations
 >- Market research & competitive analysis
