@@ -174,7 +174,7 @@
 >Seattle Pacific University, 2009
 
 
-
+<!-- div:right-panel -->
 #### Certificates
   
 >### Digital Product Management, Darden School of Business
