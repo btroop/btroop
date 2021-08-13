@@ -1,7 +1,7 @@
 :root {
       --content-max-width: 70em !important;
       --docsify-example-panels-document-width: 70em;
-      --docsify-example-panels-wrapper-width: 50%;
+      --docsify-example-panels-wrapper-width: 100%;
       --docsify-example-panels-left-panel-width : 50%;
       --docsify-example-panels-right-panel-width : 50%;
       
