@@ -173,7 +173,7 @@
   >### BA, Studies in Environmental Biology & Anthropology
   >Seattle Pacific University, 2009
 
-<!-- div:right-panel -->
+
 
   #### Certificates
   
@@ -201,7 +201,7 @@
 >### Operations
 >Agile & Scrum; Program & project management; Process improvement; Stakeholder & change management; Cross-org collaboration; Logistics planning; Quantitative modeling
 
-<!-- div:right-panel -->
+
 >### Marketing
 >Data-driven modern, integrated marketing strategy and operations; Market research; Competitive analysis; Customer Voice research; Go-to-market strategy
 
