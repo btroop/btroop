@@ -188,21 +188,26 @@
 
 # Skills
 
-
+ <!-- panels:start -->
+ <!-- div:left-panel -->
 >### Data
->Neo4J, GraphQl, SQL, PowerQuery(M), MongoDb, Data modeling, analysis and visualization; MSFT Excel and VBA; BI dashboards; SQL, NoSQL, Graph DB; Statistical analysis 
+>Graph DB, Neo4J, GraphQl; MSFT PowerBI, DAX, PowerQuery(M), MSFT Excel; Data modeling, analysis and visualization; BI dashboards; Statistical analysis 
 
 
 >### Design/Development
->Adobe Ps/Ai/Id; MSFT PPT deck design, executive pitches; Agile; Full-stack .js; HTML/CSS; NoSQL/Graph DB; Product design/UI/UX; • Node.js, React, GraphQL
+>Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown; Adobe Ps/Ai/Id; Product management & design/UI/UX; MSFT PPT, deck design, executive pitches
 
+>##Operations
+>Agile & Scrum; Program & project management; Process improvement; Stakeholder & change management; Cross-org collaboration; Logistics planning; Quantitative modeling
+
+<!-- div:right-panel -->
+>### Marketing
+>Data-driven modern, integrated marketing strategy and operations; Market research; Competitive analysis; Customer Voice research; Go-to-market strategy
 
 >### Finance
 >Financial modeling; Firm and project valuation; DCF analysis; Portfolio allocation; Venture funding; Capital budgeting; P&L analysis
+ <!-- panels:end -->
 
->### Marketing
->Data-driven modern, integrated marketing strategy and operations; Market analysis; • Competitive analysis; VOC research; Go-to-market strategy
 
->##Operations
->Cross-functional collaboration; Project management; Process improvement; Logistics planning; Quantitative modeling
+
 
