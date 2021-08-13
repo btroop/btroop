@@ -211,7 +211,8 @@
 <!-- div:right-panel -->
 >### Design/Development
 >- Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown
->- Adobe Ps/Ai/Id; Product management & design/UI/UX
+>- Adobe Ps/Ai/Id
+>- Product management & design/UI/UX
 >- MSFT PPT, deck design, executive pitches
 
 >### Marketing
