@@ -199,6 +199,22 @@
 >- BI dashboards
 >- Statistical analysis 
 
+>### Design/Development
+>- Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown
+>- Adobe Ps/Ai/Id
+>- Product management, Backlog management, Feature roadmapping
+>- Design/UI/UX, A/B testing
+>- MSFT PPT, deck design, executive pitches
+
+>### Marketing
+>- Data-driven modern, integrated marketing strategy and operations
+>- Market research & competitive analysis
+>- Customer Voice research
+>- A/B 
+>- Go-to-market strategy
+
+
+<!-- div:right-panel -->
 >### Operations
 >- Agile & Scrum
 >- Program & project management
@@ -208,23 +224,11 @@
 >- Logistics planning
 >- Quantitative modeling
 
-<!-- div:right-panel -->
->### Design/Development
->- Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown
->- Adobe Ps/Ai/Id
->- Product management & design/UI/UX
->- MSFT PPT, deck design, executive pitches
-
->### Marketing
->- Data-driven modern, integrated marketing strategy and operations
->- Market research & competitive analysis
->- Customer Voice research
->- Go-to-market strategy
-
 >### Finance
 >- Financial modeling
 >- Firm and project valuation
->- DCF analysis; Portfolio allocation
+>- DCF analysis
+>- Portfolio allocation
 >- Venture funding
 >- Capital budgeting
 >- P&L analysis
