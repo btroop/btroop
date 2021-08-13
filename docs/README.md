@@ -181,7 +181,7 @@
 >University of Virginia, 2018
 
 >### Certified Scrum Master
->The Scrum Alliance, 2018 (currently certified)
+>The Scrum Alliance, 2018 (current)
 <!-- panels:end -->
 
 
@@ -202,7 +202,7 @@
 >### Design/Development
 >- Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown
 >- Adobe Ps/Ai/Id
->- Product management, Backlog management, Feature roadmapping
+>- Product management, backlog management, feature roadmapping
 >- Design/UI/UX, A/B testing
 >- MSFT PPT, deck design, executive pitches
 
