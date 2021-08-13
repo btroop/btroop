@@ -17,10 +17,11 @@
 >---
 ><span class="hiddenHighlight">Highlights from Fortune 50 tech company projects   </span>
 >
->- Improved client company’s ability to achieve sustainability strategy goals by leading  the design and implementation of a corporate-wide data, reporting and OKR management program for monitoring and tracking progress
->- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by utilizing product-management practices to design, develop and deliver two enterprise-grade, cloud-based software and reporting capabilities
->- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading trainings and implementing Agile and Scrum principles and practices
->- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy 
+>- Improved client company’s ability to achieve sustainability strategy goals by leading the design and implementation of a corporate-wide data, reporting and OKR management program for monitoring and tracking progress  
+>- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by utilizing product-management practices to design, develop and deliver 2 enterprise-grade, cloud-based software and reporting capabilities  
+>- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading trainings and 
+implementing Agile and Scrum principles and practices  
+>- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy  
 >
 >
 ><details>
@@ -74,9 +75,9 @@
 >
 >--- 
 >**Highlights from Fortune 50 tech company projects**
->- Influenced over $150M in revenue in its first year of incubation by managing strategic business operations for a global, modern-digital-marketing program and scaling across 7 countries 
->- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform
->- Drove a multi-system data audit to identify and catalog reporting disparities; provided strategic recommendations for eliminating reporting issues and building stakeholder trust
+>- Influenced over $150M in revenue in its first year of incubation by scaling strategic business operations for a global, digital, modern-marketing program across 7 countries  
+>- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform  
+>- Delivered strategic recommendations for improving reporting fidelity and stakeholder trust by driving a multi-system data audit to catalog and evaluate reporting disparities  
 >
 ><details>
 >
@@ -109,7 +110,7 @@
 >**Highlights from client projects**
 >- Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements  
 >- Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
->- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing remapped value propositions for targeted customers segments  
+>- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing value propositions mapped to targeted customer segments  
 >- Coached small business owners in management best-practices across marketing, sales, negotiation, finance and operations functions  
 
 
@@ -123,8 +124,9 @@
 >
 >--- 
 >**Highlights from client projects**
->- Developed change recommendations for aligning client’s marketing strategy and messaging with customer needs by designing, executing and analyzing a comprehensive research study across targeted customer segments
->- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence and analysis of industry-adapted scenario impacts on client’s value differentiation, competitive advantage and financial goals
+>- Developed change recommendations for aligning client’s marketing strategy and messaging with customer needs by designing, executing and analyzing a market research study for targeted customer segments  
+>- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence and analysis of industry-adapted scenario  
+impacts on client’s value differentiation, competitive advantage and financial goals  
 
 
 
@@ -155,7 +157,7 @@
 >--- 
 >**Highlights from role**
 >- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
->- Cut costs, planning oversights and data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows, resulting in in company-wide improvements in data management and operational efficiency 
+>- Cut costs, reduced planning oversights and eliminated data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
 
 
