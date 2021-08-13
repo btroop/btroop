@@ -215,7 +215,7 @@
 
 <!-- div:right-panel -->
 >### Operations
->- Agile & Scrum
+>- Agile & Scrum, Azure DevOps
 >- Program & project management
 >- Process mapping & improvement
 >- Stakeholder & change management
