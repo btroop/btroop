@@ -197,7 +197,7 @@
 >### Design/Development
 >Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown; Adobe Ps/Ai/Id; Product management & design/UI/UX; MSFT PPT, deck design, executive pitches
 
->##Operations
+>### Operations
 >Agile & Scrum; Program & project management; Process improvement; Stakeholder & change management; Cross-org collaboration; Logistics planning; Quantitative modeling
 
 <!-- div:right-panel -->
