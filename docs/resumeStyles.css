@@ -1,5 +1,5 @@
 :root {
-      --content-max-width: 70em;
+      --content-max-width: 70em !important;
       /*--docsify-example-panels-document-width: 70em;*/
       --docsify-example-panels-left-panel-width : 50%;
       --docsify-example-panels-right-panel-width : 50%;
@@ -28,7 +28,7 @@
     }
 
     blockquote {
-        margin: 0 0 1em 0;
+        margin: 0 0 2em 0 !important;
     }
 
     .hiddenHighlight{
@@ -45,7 +45,7 @@
         display: none;
       }
       blockquote {
-        padding: 0 1em !important;
+        padding: 0 0 1em 0 !important;
       }
       p, li {
         margin: 0  0 .5em 0 !important;
