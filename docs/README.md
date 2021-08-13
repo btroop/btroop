@@ -163,7 +163,7 @@
   # Education
 
 <!-- panels:start -->
- <!-- div:left-panel -->
+<!-- div:left-panel -->
 
   #### Degrees
 
@@ -189,8 +189,8 @@
 
 # Skills
 
- <!-- panels:start -->
- <!-- div:left-panel -->
+<!-- panels:start -->
+<!-- div:left-panel -->
 >### Data
 >Graph DB, Neo4J, GraphQl; MSFT PowerBI, DAX, PowerQuery(M), MSFT Excel; Data modeling, analysis and visualization; BI dashboards; Statistical analysis 
 
@@ -207,7 +207,7 @@
 
 >### Finance
 >Financial modeling; Firm and project valuation; DCF analysis; Portfolio allocation; Venture funding; Capital budgeting; P&L analysis
- <!-- panels:end -->
+<!-- panels:end -->
 
 
 
