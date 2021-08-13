@@ -210,7 +210,6 @@
 >- Data-driven modern, integrated marketing strategy and operations
 >- Market research & competitive analysis
 >- Customer Voice research
->- A/B 
 >- Go-to-market strategy
 
 
