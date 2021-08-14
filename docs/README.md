@@ -10,7 +10,7 @@
 
 
   
->### Management Consultant, Bridge Partners
+>### Management Consultant, Bridge Partners <!-- {docsify-ignore} -->
 >Sr Manager, Sep 2020 - present  
 >Sr Consultant, Feb 2018 - Sep 2020  
 >
@@ -70,7 +70,7 @@ implementing Agile and Scrum principles and practices
 
 
 
->### Management Consultant, Grant Thornton
+>### Management Consultant, Grant Thornton <!-- {docsify-ignore} -->
 >Sr Associate, Feb 2017 - Feb 2018
 >
 >--- 
@@ -103,7 +103,7 @@ implementing Agile and Scrum principles and practices
 
 
 
->### Business & Strategy Consultant, Freelance
+>### Business & Strategy Consultant, Freelance <!-- {docsify-ignore} -->
 >Dec 2015 - Feb 2017
 >
 >---  
@@ -118,7 +118,7 @@ implementing Agile and Scrum principles and practices
 
 
 
->### Business & Strategy Consultant, via Foster School of Business
+>### Business & Strategy Consultant, via Foster School of Business <!-- {docsify-ignore} -->
 >Jan 2014 - Mar 2014  
 >Oct 2014 - Mar 2015  
 >
@@ -130,7 +130,7 @@ impacts on client’s value differentiation, competitive advantage and financial
 
 
 
->### Full-stack BI Engineer & Consultant, VIR solutions
+>### Full-stack BI Engineer & Consultant, VIR solutions <!-- {docsify-ignore} -->
 >Jan 2013 - Jul 2013
 >
 >---
@@ -151,7 +151,7 @@ impacts on client’s value differentiation, competitive advantage and financial
 
 
 
->### Equipment Engineer & Network Analyst, TTMI
+>### Equipment Engineer & Network Analyst, TTMI <!-- {docsify-ignore} -->
 >Nov 2009 - Jan 2013
 >
 >--- 
@@ -169,20 +169,20 @@ impacts on client’s value differentiation, competitive advantage and financial
 <!-- div:left-panel -->
 #### Degrees
 
->### MBA, Foster School of Business
+>### MBA, Foster School of Business <!-- {docsify-ignore} -->
 >University of Washington, 2015
 
->### BA, Studies in Environmental Biology & Anthropology
+>### BA, Studies in Environmental Biology & Anthropology <!-- {docsify-ignore} -->
 >Seattle Pacific University, 2009
 
 
 <!-- div:right-panel -->
 #### Certificates
   
->### Digital Product Management, Darden School of Business
+>### Digital Product Management, Darden School of Business <!-- {docsify-ignore} -->
 >University of Virginia, 2018
 
->### Certified Scrum Master
+>### Certified Scrum Master <!-- {docsify-ignore} -->
 >The Scrum Alliance, 2018 (current)
 <!-- panels:end -->
 
@@ -194,21 +194,21 @@ impacts on client’s value differentiation, competitive advantage and financial
 
 <!-- panels:start -->
 <!-- div:left-panel -->
->### Data
+>### Data <!-- {docsify-ignore} -->
 >- Graph DB, Neo4J, GraphQl
 >- MSFT PowerBI, DAX, PowerQuery(M), MSFT Excel
 >- Data modeling, analysis and visualization
 >- BI dashboards
 >- Statistical analysis 
 
->### Design/Development
+>### Design/Development <!-- {docsify-ignore} -->
 >- Full-stack .js, Node.js, React.js, Apollo, HTML/CSS, Markdown
 >- Adobe Ps/Ai/Id
 >- Product management, backlog management, feature roadmapping
 >- Design/UI/UX, A/B testing
 >- MSFT PPT, deck design, executive pitches
 
->### Marketing
+>### Marketing <!-- {docsify-ignore} -->
 >- Data-driven modern, integrated marketing strategy and operations
 >- Market research & competitive analysis
 >- Customer Voice research
@@ -216,7 +216,7 @@ impacts on client’s value differentiation, competitive advantage and financial
 
 
 <!-- div:right-panel -->
->### Operations
+>### Operations <!-- {docsify-ignore} -->
 >- Agile & Scrum, Azure DevOps
 >- Program & project management
 >- Process mapping & improvement
@@ -225,7 +225,7 @@ impacts on client’s value differentiation, competitive advantage and financial
 >- Logistics planning
 >- Quantitative modeling
 
->### Finance
+>### Finance <!-- {docsify-ignore} -->
 >- Financial modeling
 >- Firm and project valuation
 >- DCF analysis
