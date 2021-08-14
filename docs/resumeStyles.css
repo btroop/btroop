@@ -84,6 +84,7 @@
       font-weight: 700;
       letter-spacing: .2em;
       text-transform: uppercase;
+      font-size: small;
     }
 
     details hr {
