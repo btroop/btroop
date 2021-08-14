@@ -13,6 +13,7 @@
       --sidebar-name-color: var(--heading-h1-color);
       --sidebar-name-font-weight: 500;
       --heading-h1-font-size: 2em;
+      --sidebar-nav-link-color-active: var(--sidebar-nav-link-color);
       
       
     }
@@ -60,7 +61,7 @@
 
     .hiddenHighlight{
       /*font-weight: 700;*/
-      font-style: italic;
+      font-style: italic bold;
     }
     
     .sidebar {
