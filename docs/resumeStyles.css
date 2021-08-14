@@ -59,7 +59,8 @@
     }
 
     .hiddenHighlight{
-      font-weight: 700;
+      /*font-weight: 700;*/
+      font-style: italic;
     }
     
     .sidebar {
