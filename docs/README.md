@@ -52,15 +52,13 @@ implementing Agile and Scrum principles and practices
 >
   ><b>Product management for organizational operations</b>
   >- Successfully delivered resource management software tool to client by collecting requirements and feedback from stakeholders, developing and prioritizing feature backlog and collaborating with development team to ensure build satisfied business needs
-  >- Delivered Enterprise- 
-  >- Reduced by designing 
-  >- Developed prioritized backlog
->
+  >- Delivered Enterprise-grade reporting system with modules for measuring agile team productivity, improve resource management and enable project prioritization by leading BI team through gathering and prioritizaing business requirements, designing BI data model and system, and developing BI reports and dashboards 
+  >- Grew dev team's ability to continue delivering business value to client beyond project's initial vision and scope by establishing and maintaining a product roadmap and feature backlog derived from client's business needs
 >---
 >
   ><b>Agile implementation and management</b>
-  >- Implemented and fostered Agile frameworks within the organization
-  >- high performing, collaborative teams
+  >- Implemented and fostered Agile frameworks within the organization through combination of change management practices and team coaching
+  >- Improved high performing, collaborative teams
   >- higher quality of work
   >- better work life
 >
