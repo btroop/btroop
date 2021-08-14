@@ -111,8 +111,8 @@ implementing Agile and Scrum principles and practices
 >---
 >
   ><b>Global partner marketing program strategy</b>
->- Developed incubating program's partner engagement strategy by applying 
->
+>- Developed incubating program's partner engagement strategy by applying translating best practices from consumer-focused global engagement programs into partner-specific tactics
+>- 
 >---
 >
   ><b>Global modern marketing data audit</b>
@@ -204,9 +204,9 @@ implementing Agile and Scrum principles and practices
 >
 >--- 
 >**Highlights from role**
->- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, CapEx spending and ops. budgets
+>- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, capex spending and ops budgets
 >- Cut costs, reduced planning oversights and eliminated data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows
->- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt. policies and by leading operations teams through troubleshooting and network repair procedures
+>- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt policies and by leading operations teams through troubleshooting and network repair procedures
 
 
 
