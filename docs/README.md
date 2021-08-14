@@ -26,39 +26,39 @@ implementing Agile and Scrum principles and practices
 ><br/>
 ><details>
 >---
->  <summary><b>Project details</b></summary>  
+>  <summary><b>Project details</b></summary>
 ><br/>
-  ><b>OKR, data, reporting and tooling management for cross-org PMO</b>  
-  >- Influenced corporate sustainability strategy by facilitating the development of organization-wide OKRs for 10 different sustainability programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups  
-  >- Enabled efficient scaling and automation of in-scope program management functions by guiding client through program architecture design   
-  >- Assisted client in creation and implementation of a cross-company data platform by leading business-side stakeholders through requirements development process and facilitating collaboration with development teams  
-  >- Improved PMO efficiency by designing and building a process for systematically collecting, tracking, vetting, defining and maturing business-centric tooling requests in preparation of handoff to technical product and development teams for development  
-  >- Fostered consultant growth through career coaching and development  
-><br/>
->---
-><br/>
-  ><b>Product management for organizational operations</b>  
-  >- Successfully delivered resource management software tool to client by collecting requirements and feedback from stakeholders, developing and prioritizing feature backlog and collaborating with development team to ensure build satisfied business needs  
-  >- Delivered Enterprise-  
-  >- Reduced by designing  
-  >- Developed prioritized backlog  
+  ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
+  >- Influenced corporate sustainability strategy by facilitating the development of organization-wide OKRs for 10 different sustainability programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
+  >- Enabled efficient scaling and automation of in-scope program management functions by guiding client through program architecture design 
+  >- Assisted client in creation and implementation of a cross-company data platform by leading business-side stakeholders through requirements development process and facilitating collaboration with development teams
+  >- Improved PMO efficiency by designing and building a process for systematically collecting, tracking, vetting, defining and maturing business-centric tooling requests in preparation of handoff to technical product and development teams for development
+  >- Fostered consultant growth through career coaching and development
 ><br/>
 >---
 ><br/>
-  ><b>Agile implementation and management</b>  
-  >- Implemented and fostered Agile frameworks within the organization  
-  >- high performing, collaborative teams  
-  >- higher quality of work  
-  >- better work life  
+  ><b>Product management for organizational operations</b>
+  >- Successfully delivered resource management software tool to client by collecting requirements and feedback from stakeholders, developing and prioritizing feature backlog and collaborating with development team to ensure build satisfied business needs
+  >- Delivered Enterprise- 
+  >- Reduced by designing 
+  >- Developed prioritized backlog
 ><br/>
 >---
 ><br/>
-  ><b>Marketing and sales strategy programs development</b>  
-  >- Led cross-org team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries  
-  >- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities  
-  >- Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models  
-  >- Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance  
-  >- Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes  
+  ><b>Agile implementation and management</b>
+  >- Implemented and fostered Agile frameworks within the organization
+  >- high performing, collaborative teams
+  >- higher quality of work
+  >- better work life
+><br/>
+>---
+><br/>
+  ><b>Marketing and sales strategy programs development</b>
+  >- Led cross-org team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
+  >- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
+  >- Demonstrated ROI potential of Startup investment opportunity by collaborating with financial SMEs to build research-based financial models
+  >- Enabled client to grow share of the startup ecosystem by facilitating cross-org strategic alignment and producing a customer engagement playbook containing cross-team orchestration and customer journey guidance
+  >- Assisted 20+ Startups move to client platform by helping Startup LTs map business needs against available engagement programs and navigate onboarding processes
 >  
 >
 ></details>
