@@ -4,7 +4,7 @@
 - [![experience](https://icongr.am/material/briefcase.svg?size=16&color=currentColor)Experience](/?id=experience)
 - [![education](https://icongr.am/material/school.svg?size=16&color=currentColor)Education](/?id=education)
 - [![skillset](https://icongr.am/material/hammer-wrench.svg?size=16&color=currentColor)Skillset](/?id=skillset)
-- [![pdf](https://icongr.am/material/download.svg?size=16&color=currentColor).pdf download](https://drive.google.com/file/d/1yjVrifmYz_LyojnmDHKR023a0JllPAQO/view?usp=sharing)
+- [![pdf](https://icongr.am/material/download.svg?size=16&color=currentColor)Resume PDF](https://drive.google.com/file/d/1yjVrifmYz_LyojnmDHKR023a0JllPAQO/view?usp=sharing)
 
 
 
@@ -15,8 +15,5 @@
 
 
 
-
-- **Resume PDF**
--[Resume PDF](https://drive.google.com/file/d/1yjVrifmYz_LyojnmDHKR023a0JllPAQO/view?usp=sharing)
 
 
