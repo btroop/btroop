@@ -17,11 +17,11 @@
       
     }
     
-/*
+
     .markdown-section {
       max-width: 90% !important;
     }
-    */
+    
     .markdown-section h1, .sidebar>h1{
       text-transform: uppercase;
       letter-spacing: .2em;
