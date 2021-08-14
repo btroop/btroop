@@ -23,7 +23,7 @@
 implementing Agile and Scrum principles and practices  
 >- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy  
 >
-><br/>
+>
 ><details>
 >
 >---
@@ -35,8 +35,8 @@ implementing Agile and Scrum principles and practices
   >- Enabled efficient scaling and automation of in-scope program management functions by guiding client through program architecture design 
   >- Assisted client in creation and implementation of a cross-company data platform by leading business-side stakeholders through requirements development process and facilitating collaboration with development teams
   >- Improved PMO efficiency by designing and building a process for systematically collecting, tracking, vetting, defining and maturing business-centric tooling requests in preparation of handoff to technical product and development teams for development
-  >- Fostered consultant growth through career coaching and development <br/><br/>
-><br/><br/>
+  >- Fostered consultant growth through career coaching and development 
+><br/>
 >---
 ><br/><br/>
   ><b>Product management for organizational operations</b>
