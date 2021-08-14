@@ -13,7 +13,8 @@
 - [![cell](https://icongr.am/material/phone.svg?size=16&color=currentColor)206.552.0204](tel:2065520204)
 - [![LinkedIn](https://icongr.am/material/linkedin.svg?size=16&color=currentColor)LinkedIn](https://www.linkedin.com/in/bentroop)
 
-
+---
+- [![pdf](https://icongr.am/material/download.svg?size=16&color=currentColor)Resume PDF](https://drive.google.com/file/d/1yjVrifmYz_LyojnmDHKR023a0JllPAQO/view?usp=sharing)
 
 
 
