@@ -10,13 +10,18 @@
       --sidebar-toggle-background: var(--blockquote-border-color);
       --sidebar-toggle-icon-color: white;
       --sidebar-nav-strong-margin: 0;
-      --sidebar-nav-strong-border-color: var(--blockquote-border-color);
       --sidebar-name-color: var(--heading-h1-color);
       --sidebar-name-font-weight: 500;
+      --heading-h1-font-size: 2em;
       
       
     }
     
+    .markdown-section h1 {
+      text-transform: uppercase;
+      letter-spacing: .2em;
+    }
+
     strong {
       font-weight: 700;
     }
