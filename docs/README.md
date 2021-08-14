@@ -5,6 +5,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 # Experience
 
 
@@ -73,6 +84,13 @@ implementing Agile and Scrum principles and practices
 
 
 
+
+
+
+
+
+
+
 >### Management Consultant, Grant Thornton <!-- {docsify-ignore} -->
 >Sr Associate, Feb 2017 - Feb 2018
 >
@@ -106,6 +124,14 @@ implementing Agile and Scrum principles and practices
 
 
 
+
+
+
+
+
+
+
+
 >### Business & Strategy Consultant, Freelance <!-- {docsify-ignore} -->
 >Dec 2015 - Feb 2017
 >
@@ -121,6 +147,14 @@ implementing Agile and Scrum principles and practices
 
 
 
+
+
+
+
+
+
+
+
 >### Business & Strategy Consultant, via Foster School of Business <!-- {docsify-ignore} -->
 >Jan 2014 - Mar 2014  
 >Oct 2014 - Mar 2015  
@@ -128,8 +162,17 @@ implementing Agile and Scrum principles and practices
 >--- 
 ><span class="hiddenHighlight">Highlights from client projects   </span>
 >- Developed change recommendations for aligning client’s marketing strategy and messaging with customer needs by designing, executing and analyzing a market research study for targeted customer segments  
->- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence and analysis of industry-adapted scenario  
-impacts on client’s value differentiation, competitive advantage and financial goals  
+>- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence and analysis of industry-adapted scenario impacts on client’s value differentiation, competitive advantage and financial goals  
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -165,6 +208,15 @@ impacts on client’s value differentiation, competitive advantage and financial
 
 
 
+
+
+
+
+
+
+
+
+
 # Education
 
 
@@ -188,6 +240,13 @@ impacts on client’s value differentiation, competitive advantage and financial
 >### Certified Scrum Master <!-- {docsify-ignore} -->
 >The Scrum Alliance, 2018 (current)
 <!-- panels:end -->
+
+
+
+
+
+
+
 
 
 
