@@ -56,11 +56,10 @@ implementing Agile and Scrum principles and practices
   >- Grew dev team's ability to continue delivering business value to client beyond project's initial vision and scope by establishing and maintaining a product roadmap and feature backlog derived from client's business needs
 >---
 >
-  ><b>Agile implementation and management</b>
-  >- Implemented and fostered Agile frameworks within the organization through combination of change management practices and team coaching
-  >- Improved high performing, collaborative teams
-  >- higher quality of work
-  >- better work life
+  ><b>Agile implementation and coaching</b>
+  >- Reformed organization's working practices by implementing Agile frameworks and processes through combination of change management principles and team coaching
+  >- Improved productivity, forecasting accuracy and collaborative capabilities of product management teams through data-driven feedback loops and rigorous adherence to Scrum practices 
+  >- Improved individual's work/life balance and overall satisfaction with work, evidenced by regular satisfaction surveys and retrospectives
 >
 >---
 >
@@ -112,11 +111,13 @@ implementing Agile and Scrum principles and practices
 >---
 >
   ><b>Global partner marketing program strategy</b>
+>- Developed incubating program's partner engagement strategy by applying 
 >
 >---
 >
   ><b>Global modern marketing data audit</b>
->
+>- 
+>-Developed 
 ></details>
 
 
