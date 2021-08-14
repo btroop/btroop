@@ -5,7 +5,8 @@
 - [![cell](https://icongr.am/material/phone.svg?size=16&color=currentColor)206.552.0204](tel:2065520204)
 - [![LinkedIn](https://icongr.am/material/linkedin.svg?size=16&color=currentColor)LinkedIn](https://www.linkedin.com/in/bentroop)
 
-
+<br/>
+<br/>
 - **Resume**
 - [![intro](https://icongr.am/material/account.svg?size=16&color=currentColor)Intro](/?id=intro)
 - [![experience](https://icongr.am/material/briefcase.svg?size=16&color=currentColor)Experience](/?id=experience)
