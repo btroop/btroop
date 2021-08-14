@@ -29,7 +29,7 @@ implementing Agile and Scrum principles and practices
 >---
 >  <summary><b>Project details</b></summary>
 >
->  
+>><br/><br/>  
   ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
   >- Influenced corporate sustainability strategy by facilitating the development of organization-wide OKRs for 10 different sustainability programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
   >- Enabled efficient scaling and automation of in-scope program management functions by guiding client through program architecture design 
@@ -38,6 +38,7 @@ implementing Agile and Scrum principles and practices
   >- Fostered consultant growth through career coaching and development <br/><br/>
 >
 >---
+><br/><br/>
   ><b>Product management for organizational operations</b>
   >- Successfully delivered resource management software tool to client by collecting requirements and feedback from stakeholders, developing and prioritizing feature backlog and collaborating with development team to ensure build satisfied business needs
   >- Delivered Enterprise- 
@@ -45,6 +46,7 @@ implementing Agile and Scrum principles and practices
   >- Developed prioritized backlog <br/><br/>
 >  
 >---
+><br/><br/>
   ><b>Agile implementation and management</b>
   >- Implemented and fostered Agile frameworks within the organization
   >- high performing, collaborative teams
@@ -52,6 +54,7 @@ implementing Agile and Scrum principles and practices
   >- better work life
 >
 >---
+><br/><br/>
   ><b>Marketing and sales strategy programs development</b>
   >- Led cross-org team within to research market trends and design and implement new marketing and sales strategies targeting growth customer segments and industries
   >- Influenced positive SLT perception of Startup segment opportunity by crafting strategy pitch addressing startup needs, industry trends, competitive landscape and client priorities
