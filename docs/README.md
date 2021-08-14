@@ -23,28 +23,28 @@
 implementing Agile and Scrum principles and practices  
 >- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy  
 >
->
+><br/><br/>
 ><details>
 >
 >---
 >  <summary><b>Project details</b></summary>
 >
->><br/><br/>  
+><br/><br/>  
   ><b>OKR, data, reporting and tooling management for cross-org PMO</b>
   >- Influenced corporate sustainability strategy by facilitating the development of organization-wide OKRs for 10 different sustainability programs scoped to 10, 1 and 1/2 year time frames and by leading the OKR rollout across the company's 14 major business groups
   >- Enabled efficient scaling and automation of in-scope program management functions by guiding client through program architecture design 
   >- Assisted client in creation and implementation of a cross-company data platform by leading business-side stakeholders through requirements development process and facilitating collaboration with development teams
   >- Improved PMO efficiency by designing and building a process for systematically collecting, tracking, vetting, defining and maturing business-centric tooling requests in preparation of handoff to technical product and development teams for development
   >- Fostered consultant growth through career coaching and development <br/><br/>
->
+><br/><br/>
 >---
 ><br/><br/>
   ><b>Product management for organizational operations</b>
   >- Successfully delivered resource management software tool to client by collecting requirements and feedback from stakeholders, developing and prioritizing feature backlog and collaborating with development team to ensure build satisfied business needs
   >- Delivered Enterprise- 
   >- Reduced by designing 
-  >- Developed prioritized backlog <br/><br/>
->  
+  >- Developed prioritized backlog
+><br/><br/>  
 >---
 ><br/><br/>
   ><b>Agile implementation and management</b>
@@ -52,7 +52,7 @@ implementing Agile and Scrum principles and practices
   >- high performing, collaborative teams
   >- higher quality of work
   >- better work life
->
+><br/><br/>
 >---
 ><br/><br/>
   ><b>Marketing and sales strategy programs development</b>
