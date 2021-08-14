@@ -7,4 +7,7 @@
 -
 - **Resume**
 - [Sections](/)
-
+- [Intro](/?id=intro)
+- [Experience](/?id=experience)
+- [Education](/?id=education)
+- [Skillset](/?id=skillset)

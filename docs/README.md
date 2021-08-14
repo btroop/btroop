@@ -190,7 +190,7 @@ impacts on client’s value differentiation, competitive advantage and financial
 
 
 
-# Skills
+# Skillset
 
 <!-- panels:start -->
 <!-- div:left-panel -->
