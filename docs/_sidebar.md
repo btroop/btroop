@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 - **Ben Troop**
-- benjamintroop@gmail.com <span class="material-icons">phone</span>
-- 206.552.0204
+- [!email()]benjamintroop@gmail.com 
+- [!phone(https://fonts.google.com/icons?selected=Material%20Icons%3Aphone%3A)]206.552.0204
 - [LinkedIn](https://www.linkedin.com/in/bentroop)
 -
 - **Resume**
