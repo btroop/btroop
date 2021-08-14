@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 - **Resume**
-- [![intro](https://icongr.am/material/account.svg?size=16&color=currentColor)Intro](/?id=intro)
+- [![profile](https://icongr.am/material/account.svg?size=16&color=currentColor)Profile](/?id=profile)
 - [![experience](https://icongr.am/material/briefcase.svg?size=16&color=currentColor)Experience](/?id=experience)
 - [![education](https://icongr.am/material/school.svg?size=16&color=currentColor)Education](/?id=education)
 - [![skillset](https://icongr.am/material/hammer-wrench.svg?size=16&color=currentColor)Skillset](/?id=skillset)
