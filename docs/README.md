@@ -1,4 +1,4 @@
-# Intro
+# Profile
 > I'm looking to solve real problems for real people by working with a high-performing team to turn innovative ideas into awesome, beautifully-designed and intelligently-built products. 
 > <br/><br/>
 >I'm most energized when operating as a polymath—drawing upon my collection of broadly technical, multi-functional experiences, interests and skills—to deliver creative, inventive solutions that delight users.
@@ -258,7 +258,7 @@ implementing Agile and Scrum principles and practices
 <!-- panels:start -->
 <!-- div:left-panel -->
 >### Data <!-- {docsify-ignore} -->
->- Graph DB, Neo4J, GraphQl
+>- Graph DB, Neo4J, GraphQl, SQL, NoSQL
 >- MSFT PowerBI, DAX, PowerQuery(M), MSFT Excel
 >- Data modeling, analysis and visualization
 >- BI dashboards
