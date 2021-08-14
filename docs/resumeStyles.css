@@ -7,6 +7,8 @@
       --sidebar-name-text-align: left;
       --blockquote-background: var(--sidebar-background);
       --heading-h1-margin: 2em 0 1em 0;
+      --sidebar-toggle-background: var(--sidebar-name-color);
+      --sidebar-toggle-icon-color: white;
       
       
     }
@@ -42,6 +44,10 @@
 
     .hiddenHighlight{
       font-weight: 700;
+    }
+    
+    .sidebar {
+      border: none;
     }
 
     .sidebar-nav ul, .sidebar nav ul {
