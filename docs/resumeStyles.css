@@ -43,6 +43,7 @@
     li, p {
       line-height: 130%;
       margin: 0 0 .7em 0 !important;
+      font-weight: 300;
     }
 
     hr {

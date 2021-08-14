@@ -77,7 +77,7 @@ implementing Agile and Scrum principles and practices
 >Sr Associate, Feb 2017 - Feb 2018
 >
 >--- 
->**Highlights from Fortune 50 tech company projects**
+><span class="hiddenHighlight">Highlights from Fortune 50 tech company projects   </span>
 >- Influenced over $150M in revenue in its first year of incubation by scaling strategic business operations for a global, digital, modern-marketing program across 7 countries  
 >- Developed a global engagement program's go-to-market strategy for onboarding existing business partners onto a new transaction platform  
 >- Delivered strategic recommendations for improving reporting fidelity and stakeholder trust by driving a multi-system data audit to catalog and evaluate reporting disparities  
@@ -110,7 +110,7 @@ implementing Agile and Scrum principles and practices
 >Dec 2015 - Feb 2017
 >
 >---  
->**Highlights from client projects**
+><span class="hiddenHighlight">Highlights from client projects   </span>
 >- Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements  
 >- Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing value propositions mapped to targeted customer segments  
@@ -126,7 +126,7 @@ implementing Agile and Scrum principles and practices
 >Oct 2014 - Mar 2015  
 >
 >--- 
->**Highlights from client projects**
+><span class="hiddenHighlight">Highlights from client projects   </span>
 >- Developed change recommendations for aligning client’s marketing strategy and messaging with customer needs by designing, executing and analyzing a market research study for targeted customer segments  
 >- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence and analysis of industry-adapted scenario  
 impacts on client’s value differentiation, competitive advantage and financial goals  
@@ -137,7 +137,7 @@ impacts on client’s value differentiation, competitive advantage and financial
 >Jan 2013 - Jul 2013
 >
 >---
->**Highlights from client project**
+><span class="hiddenHighlight">Highlights from client project   </span>
 >- Enabled C-suite/board to evaluate executive compensation, partner relationship health and operational compliance with QMS standards and KPIs by scoping, building and delivering a full-stack BI solution
 >
 ><details>
