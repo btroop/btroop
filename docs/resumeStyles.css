@@ -17,10 +17,12 @@
       
     }
     
-    .markdown-section h1 {
+    .markdown-section h1, .sidebar>h1{
       text-transform: uppercase;
       letter-spacing: .2em;
     }
+
+
 
     strong {
       font-weight: 700;
@@ -61,6 +63,10 @@
 
     .sidebar-nav ul, .sidebar nav ul {
       margin: 0 0 2em 0;
+    }
+
+    .sidebar-nav ul>li>span, .sidebar-nav ul>li>strong, .sidebar nav ul>li>span, .sidebar nav ul>li>strong {
+      letter-spacing: .2em;
     }
 
     @media print {
