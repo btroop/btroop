@@ -2,7 +2,7 @@
 
 - **Ben Troop**
 - [![email](https://icongr.am/material/email.svg?size=16&color=currentColor)benjamintroop@gmail.com](mailto:benjamintroop@gmail.com) 
-- [![cell](https://icongr.am/material/phone.svg?size=16&color=currentColor)206.552.0204](#)
+- [![cell](https://icongr.am/material/phone.svg?size=16&color=currentColor)206.552.0204](tel:2065520204)
 - [![LinkedIn](https://icongr.am/devicon/linkedin-plain.svg?size=16&color=currentColor)LinkedIn](https://www.linkedin.com/in/bentroop)
 
 -
