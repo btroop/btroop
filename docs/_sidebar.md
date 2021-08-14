@@ -6,7 +6,6 @@
 - [LinkedIn](https://www.linkedin.com/in/bentroop)
 -
 - **Resume**
-- [Sections](/)
 - [Intro](/?id=intro)
 - [Experience](/?id=experience)
 - [Education](/?id=education)
