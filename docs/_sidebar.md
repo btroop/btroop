@@ -13,3 +13,9 @@
 - [![LinkedIn](https://icongr.am/material/linkedin.svg?size=16&color=currentColor)LinkedIn](https://www.linkedin.com/in/bentroop)
 
 
+
+
+- **Resume PDF**
+-[Resume PDF](https://drive.google.com/file/d/1yjVrifmYz_LyojnmDHKR023a0JllPAQO/view?usp=sharing)
+
+
