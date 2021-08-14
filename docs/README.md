@@ -116,8 +116,10 @@ implementing Agile and Scrum principles and practices
 >---
 >
   ><b>Global modern marketing data audit</b>
->- 
->-Developed 
+>- developed a framework for systematically comparing similar data
+>- created a troubleshooting guide
+>- root cause analysis
+>- Developed 
 ></details>
 
 
@@ -137,7 +139,7 @@ implementing Agile and Scrum principles and practices
 >---  
 ><span class="hiddenHighlight">Highlights from client projects   </span>
 >- Designed flagship product prototype by working with client to evaluate customers’ pain points, preferences and functional requirements  
->- Added $950K in value to client group's 2-year contract by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
+>- Added $950K in value to client group's 2-year employment contracts by performing market due diligence, developing negotiation strategy and coaching group representatives in negotiation tactics  
 >- Increased client‘s sales leads by developing a go-to-market strategy featuring channel-specific communications emphasizing value propositions mapped to targeted customer segments  
 >- Coached small business owners in management best-practices across marketing, sales, negotiation, finance and operations functions  
 
