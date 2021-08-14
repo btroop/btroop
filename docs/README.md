@@ -35,14 +35,14 @@ implementing Agile and Scrum principles and practices
   >- Enabled efficient scaling and automation of in-scope program management functions by guiding client through program architecture design 
   >- Assisted client in creation and implementation of a cross-company data platform by leading business-side stakeholders through requirements development process and facilitating collaboration with development teams
   >- Improved PMO efficiency by designing and building a process for systematically collecting, tracking, vetting, defining and maturing business-centric tooling requests in preparation of handoff to technical product and development teams for development
-  >- Fostered consultant growth through career coaching and development
+  >- Fostered consultant growth through career coaching and development <br/><br/>
 >
 >---
   ><b>Product management for organizational operations</b>
   >- Successfully delivered resource management software tool to client by collecting requirements and feedback from stakeholders, developing and prioritizing feature backlog and collaborating with development team to ensure build satisfied business needs
   >- Delivered Enterprise- 
   >- Reduced by designing 
-  >- Developed prioritized backlog
+  >- Developed prioritized backlog <br/><br/>
 >  
 >---
   ><b>Agile implementation and management</b>
