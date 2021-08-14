@@ -5,6 +5,8 @@
       --docsify-example-panels-left-panel-width : 50%;
       --docsify-example-panels-right-panel-width : 50%;
       --sidebar-name-text-align: left;
+      --blockquote-background: hsl(0,0%,97%);
+      --heading-h1-margin: 2em 0 1em 0;
       
       
     }
@@ -34,7 +36,7 @@
     }
 
     blockquote {
-        margin: 0 0 2em 0 !important;
+        margin: 0 0 3em 0 !important;
         padding: 1em !important;
     }
 
