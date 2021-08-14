@@ -11,6 +11,8 @@
       --sidebar-toggle-icon-color: white;
       --sidebar-nav-strong-margin: 0;
       --sidebar-nav-strong-border-color: var(--blockquote-border-color);
+      --sidebar-name-color: var(--heading-h1-color);
+      --sidebar-name-font-weight: 500;
       
       
     }
