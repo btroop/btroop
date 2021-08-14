@@ -2,7 +2,7 @@
 
 - **Ben Troop**
 - benjamintroop@gmail.com 
-- [cell](https://icongr.am/material/cellphone.svg?size=128&color=currentColor) 206.552.0204
+- [![cell](https://icongr.am/material/cellphone.svg?size=32&color=currentColor)206.552.0204]
 - [LinkedIn](https://www.linkedin.com/in/bentroop)
 - [![NPM](https://icongr.am/simple/npm.svg?colored&size=32)NPM](https://www.npmjs.com/package/docsify-example-panels)
 -
