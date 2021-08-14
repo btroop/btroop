@@ -23,7 +23,7 @@
 implementing Agile and Scrum principles and practices  
 >- Improved client company's reach into target growth-customer segments by aligning and leading teams from across 8 business groups in the development and execution of a coordinated engagement and sales strategy  
 >
-><br/><br/>
+><br/>
 ><details>
 >
 >---
