@@ -42,6 +42,10 @@
       font-weight: 700;
     }
 
+    .sidebar-nav ul, .sidebar nav ul {
+      margin: 0 0 2em 0;
+    }
+
     @media print {
       :root {
         --content-max-width: 95em;
