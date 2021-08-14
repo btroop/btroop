@@ -161,8 +161,9 @@ implementing Agile and Scrum principles and practices
 >
 >--- 
 ><span class="hiddenHighlight">Highlights from client projects   </span>
->- Developed change recommendations for aligning client’s marketing strategy and messaging with customer needs by designing, executing and analyzing a market research study for targeted customer segments  
 >- Created strategy for integrating market-disrupting innovations into client’s 5-year business plan by performing due diligence and analysis of industry-adapted scenario impacts on client’s value differentiation, competitive advantage and financial goals  
+>- Developed change recommendations for aligning client’s marketing strategy and messaging with customer needs by designing, executing and analyzing a market research study for targeted customer segments  
+
 
 
 
