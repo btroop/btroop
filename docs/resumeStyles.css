@@ -28,8 +28,8 @@
       letter-spacing: .2em;
     }
 
-    blockquote + .markdown-section h1 {
-      margin: 5em 0 2em 0;
+    blockquote + h1 {
+      margin: 5em 0 1em 0;
     }
 
 
