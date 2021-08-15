@@ -17,7 +17,7 @@
       --sidebar-name-font-weight: 500;
       --heading-h1-font-size: 2em;
       --sidebar-nav-link-color--active: var(--sidebar-nav-link-color);
-      --sidebar-toggle-offset-tope: calc(42px - (var(--sidebar-toggle-height) / 2));
+      --sidebar-toggle-offset-top: calc(42px - (var(--sidebar-toggle-height) / 2));
       
       
     }
