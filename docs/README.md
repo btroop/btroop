@@ -202,7 +202,7 @@ implementing Agile and Scrum principles and practices
 >Nov 2009 - Jan 2013
 >
 >--- 
->**Highlights from role**
+><span class="hiddenHighlight">Highlights from role   </span>
 >- Enabled executive leadership to make strategic growth decisions by designing and building analysis models that forecasted projects’ equipment counts, capex spending and ops budgets
 >- Cut costs, reduced planning oversights and eliminated data discrepancies by developing and implementing a suite of automated software tools that streamlined 10 major engineering workflows
 >- Reduced financial impact of service delivery outages by revising interdepartmental project mgmt policies and by leading operations teams through troubleshooting and network repair procedures
