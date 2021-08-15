@@ -6,7 +6,7 @@
       --docsify-example-panels-right-panel-width : 50%;
       --sidebar-name-text-align: left;
       --blockquote-background: var(--sidebar-background);
-      --heading-h1-margin: 2em 0 1em 0;
+      --heading-h1-margin: 2em 0 1em 0 !important;
       --sidebar-toggle-background: var(--blockquote-border-color);
       --sidebar-toggle-icon-color: white;
       --sidebar-nav-strong-margin: 0;
