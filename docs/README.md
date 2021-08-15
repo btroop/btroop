@@ -112,14 +112,13 @@ implementing Agile and Scrum principles and practices
 >
   ><b>Global partner marketing program strategy</b>
 >- Developed incubating program's partner engagement strategy by applying translating best practices from consumer-focused global engagement programs into partner-specific tactics
->- 
+>- Provided strategic recommendations for filling data platform gaps and optimizing partner conversion by leading client in KPI development and partner journey mapping 
+>- Improved program reporting capabilities by collaborating with BI team to define and clarify business requirements
 >---
 >
   ><b>Global modern marketing data audit</b>
->- developed a framework for systematically comparing similar data
->- created a troubleshooting guide
->- root cause analysis
->- Developed 
+>- Produced comprehensive report outlining audit findings and data issues by designing an audit frameowrk and driving systematic comparison asessing 3 related data sets
+>- Developed strategic recommendations to improve stakeholder trust in data systems and long-term data management practices by outlining a root cause analysis and troubleshooting guide to quickly identify, categorize and mitigate data disparities
 ></details>
 
 
