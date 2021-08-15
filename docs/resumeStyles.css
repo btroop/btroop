@@ -7,11 +7,11 @@
       --sidebar-name-text-align: left;
       --blockquote-background: var(--sidebar-background);
       --heading-h1-margin: 2em 0 1em 0 !important;
-      /*
       --sidebar-toggle-background: var(--blockquote-border-color);
       --sidebar-toggle-icon-color: white;
-      */
+      /*
       --sidebar-toggle-background: var(--sidebar-background);
+      */
       --sidebar-nav-strong-margin: 0;
       --sidebar-name-color: var(--heading-h1-color);
       --sidebar-name-font-weight: 500;
