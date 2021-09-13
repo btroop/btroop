@@ -28,7 +28,7 @@
 >---
 ><span class="hiddenHighlight">Highlights from Fortune 50 tech company projects   </span>
 >
->- Improved client company’s ability to achieve sustainability strategy goals by leading the design and implementation of a corporate-wide data, reporting and OKR management program for monitoring and tracking progress  
+>- Improved client company’s ability to achieve sustainability strategy goals set by the office of the CSO by leading the design and implementation of a corporate-wide data, reporting and OKR management program for monitoring and tracking progress  
 >- Enabled 50-person organization to measure Agile performance, improve resource management and better prioritize project portfolio by utilizing product-management practices to design, develop and deliver 2 enterprise-grade, cloud-based software and reporting capabilities  
 >- Developed and matured a 30-person product management group's Agile capabilities by coaching Scrum teams, creating Agile educational content, leading trainings and 
 implementing Agile and Scrum principles and practices  
